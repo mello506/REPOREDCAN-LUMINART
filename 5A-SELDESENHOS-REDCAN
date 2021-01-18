@@ -11,10 +11,10 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B] NOVELAS REDE CANAIS NR[/B][/COLOR]</name>
+<name>[COLOR blue][B] DESENHOS NO REDE CANAIS NR[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>ESCOLHA A NOVELA PARA ASSISTIR</info>
+<info>ESCOLHA O DESENHO PARA ASSISTIR</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -22,9 +22,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] NOVELAS NO ESTILO PADRÃO LUMINART STUDIO [/B][/COLOR]</name>
+<name>[COLOR red][B] DESENHOS NO ESTILO PADRÃO LUMINART STUDIO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOREDCAN-LUMINART/main/2-FILMES-REDCAN</externallink>
-<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
+<thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>APRESENTAÇÃO NO ESTILO PADRÃO LUMINART STUDIO</info>
 </channel>
@@ -34,8 +34,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR blue][B] NOVELAS NO ESTILO LISTA IPTV [/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
+<name>[COLOR blue][B] DESENHOS NO ESTILO LISTA IPTV [/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>APRESENTAÇÃO EM FORMA DE LISTA IPTV</info>
 </channel>
@@ -47,34 +47,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR lime][B] LISTA 1[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/2A1-FILMREDCAN-1</externallink>
-<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
+<thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>O MELHOR DAS NOVELAS</info>
+<info>O MELHOR DOS DESENHOS NO REDE CANAIS</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR lime][B] LISTA 2[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/2A2-FILMREDCAN-2</externallink>
-<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>O MELHOR DAS NOVELAS</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR lime][B] LISTA 3[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/2A3-FILMREDCAN-3</externallink>
-<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>O MELHOR DAS NOVELAS</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
