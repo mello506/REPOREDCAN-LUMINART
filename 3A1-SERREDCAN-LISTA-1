@@ -1,5 +1,64 @@
 #EXTM3U
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="ROMA" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] Roma - 1ª TEMP - DUB [/COLOR]
+CABECALHO
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TO1E01" tvg-logo="ICONE" group-title="SERIES",TO1E01[COLOR yellow] ->[COLOR lime] A Águia Roubada [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E02" tvg-logo="ICONE" group-title="SERIES",TO1E02[COLOR yellow] ->[COLOR lime] Como Tito Pullo Destruiu A República [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E03" tvg-logo="ICONE" group-title="SERIES",TO1E03[COLOR yellow] ->[COLOR lime] Uma Coruja No Arbusto [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E04" tvg-logo="ICONE" group-title="SERIES",TO1E04[COLOR yellow] ->[COLOR lime] Roubado De Saturno [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E05" tvg-logo="ICONE" group-title="SERIES",TO1E05[COLOR yellow] ->[COLOR lime] O Aríete Alcançou A Parede [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E06" tvg-logo="ICONE" group-title="SERIES",TO1E06[COLOR yellow] ->[COLOR lime] Egéria [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E07" tvg-logo="ICONE" group-title="SERIES",TO1E07[COLOR yellow] ->[COLOR lime] Farsália [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E08" tvg-logo="ICONE" group-title="SERIES",TO1E08[COLOR yellow] ->[COLOR lime] Cesárion [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E09" tvg-logo="ICONE" group-title="SERIES",TO1E09[COLOR yellow] ->[COLOR lime] Útica [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E10" tvg-logo="ICONE" group-title="SERIES",TO1E10[COLOR yellow] ->[COLOR lime] O Triunfo [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E11" tvg-logo="ICONE" group-title="SERIES",TO1E11[COLOR yellow] ->[COLOR lime] Os Espólios De Guerra  [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E12" tvg-logo="ICONE" group-title="SERIES",TO1E12[COLOR yellow] ->[COLOR lime] Os Primeiros Dias De Fevereiro [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT01EP12.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-id="" tvg-name="Roma" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] Roma - 2ª TEMP - DUB [/COLOR]
+CABECALHO
+
+#EXTINF:-1 tvg-id="" tvg-name="TO1E01" tvg-logo="ICONE" group-title="SERIES",TO1E01[COLOR yellow] ->[COLOR lime] A Passagem Do Poder [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT02EP01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E02" tvg-logo="ICONE" group-title="SERIES",TO1E02[COLOR yellow] ->[COLOR lime] O Filho De Plutão [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT02EP02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E03" tvg-logo="ICONE" group-title="SERIES",TO1E03[COLOR yellow] ->[COLOR lime] Estas São As Palavras De Marco Túlio Cícero [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT02EP03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E04" tvg-logo="ICONE" group-title="SERIES",TO1E04[COLOR yellow] ->[COLOR lime] A Tartaruga E A Lebre [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT02EP04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E05" tvg-logo="ICONE" group-title="SERIES",TO1E05[COLOR yellow] ->[COLOR lime] Os Heróis Da República [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT02EP05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E06" tvg-logo="ICONE" group-title="SERIES",TO1E06[COLOR yellow] ->[COLOR lime] Filipe [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT02EP06.mp4E
+#EXTINF:-1 tvg-id="" tvg-name="TO1E07" tvg-logo="ICONE" group-title="SERIES",TO1E07[COLOR yellow] ->[COLOR lime] A Máscara Da Morte [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT02EP07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E08" tvg-logo="ICONE" group-title="SERIES",TO1E08[COLOR yellow] ->[COLOR lime] Uma Ficção Necessária [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT02EP08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E09" tvg-logo="ICONE" group-title="SERIES",TO1E09[COLOR yellow] ->[COLOR lime] Nem Deus Consegue Parar Um Homem Faminto [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT02EP09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TO1E10" tvg-logo="ICONE" group-title="SERIES",TO1E10[COLOR yellow] ->[COLOR lime] Sobre Seu Pai [/COLOR]
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/RomaT02EP10.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-id="" tvg-name="TERROR" tvg-logo="ICONE" group-title="SÉRIE",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] The Walking Dead - T01 - Dublado[/COLOR]
 LINKDOFILME
 
