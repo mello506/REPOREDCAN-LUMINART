@@ -87,15 +87,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR blue][B] Star Trek - Coleção completa[/B][/COLOR]</name>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Coleção completa[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Sy1841G/startrek-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui Star Trek - Coleção completa no REDE CANAIS</info>
+<genre>FICÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Star Trek - Coleção de filmes - Dublados[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Star Trek - Coleção de filmes - Dublados[/B][/COLOR]</title>
 <thumbnail>https://i.ibb.co/Sy1841G/startrek-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Escolha o filme da Star Trek - Coleção de filmes para assistir</info>
