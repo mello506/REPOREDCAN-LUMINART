@@ -22,12 +22,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SÉRIES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE FLASH[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/D1C1-THEFLASH-REDCAN</externallink>
-<thumbnail>ICONEPASTA</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>THE FLASH</info>
-<genre>AÇÃO</genre>
+<name>[COLOR lime][B]HATFIELDS E MAC COYS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/6Z3VMBx/hatfielsmccoys-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/Bt0Vhyg/hatfielsmccoys-fan.jpg</fanart>
+<info>Quando um McCoy é executado e as suspeitas recaem sobre membros da família Hatfield, começa a rixa entre essas duas famílias. Anos depois, o roubo de um porco reacende a animosidade entre elas, chamando até mesmo a atenção internacional.</info>
+<genre>WESTERN</genre>
+
+
+<item>
+<title>[B]MINI SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MAC COYS - 2012 - DUB[/COLOR]</title>
+
+link>plugin://plugin.video.youtube/play/?video_id=8Hg9mvE1FA4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MAC COYS[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/HTFDSEMCYSEP01.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MAC COYS - 720 - DUB[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/HTFDSEMCYSEP02.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MAC COYS - 720 - DUB[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/HTFDSEMCYSEP03.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MAC COYS - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/6Z3VMBx/hatfielsmccoys-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/Bt0Vhyg/hatfielsmccoys-fan.jpg</fanart>
+<info>Quando um McCoy é executado e as suspeitas recaem sobre membros da família Hatfield, começa a rixa entre essas duas famílias. Anos depois, o roubo de um porco reacende a animosidade entre elas, chamando até mesmo a atenção internacional.</info>
+<genre>WESTERN</genre>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
