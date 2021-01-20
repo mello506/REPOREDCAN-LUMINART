@@ -10,26 +10,23 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 </channel>
 </channels>
 
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR blue][B]X-Men[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui os Filmes e Séries da franquia X-Men</info>
 <genre>SUPER-HERÓIS</genre> 
-</channel>
-</channels>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] X-Men[/B][/COLOR]</title>
+<channels></channels>
+<channel>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] X-Men - Ordem cronológica[/B][/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
+<info>Eescolha o servidor para assistir</info>
 <genre>SUPER-HERÓIS</genre> 
-</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
