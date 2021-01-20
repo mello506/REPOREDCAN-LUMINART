@@ -11,29 +11,29 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR blue][B] STAR TREK - FILMES[/B][/COLOR]</name>
+<name>[COLOR blue][B] Star Trek - Filmes[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Sy1841G/startrek-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>STAR TREK - FILMES</info>
+<info>Assista aqui os Filmes e Séries da franquia Star Trek</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - FILMES[/B][/COLOR]</name>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Filmes - Ordem cronológica[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Sy1841G/startrek-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>STAR TREEK</info>
+<info>Assista aqui os Filmes da franquia Star Trek</info>
 <genre>FICÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK I - O FILME - 1979 - 1080 - DUB[/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek I - O Filme - 1979 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id==ZLlV_JVtO5c$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - O FILME[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id==ZLlV_JVtO5c$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - O FILME[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/JORNDMSESTRLS01.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - O FILME [/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/JORNDMSESTRLS01.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - O FILME [/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/sK05FHZ/startrekofilme-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -43,24 +43,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK II - A IRA DE KHAN - 1982 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek II - A Ira de Khan - 1982 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=x8X44NRltMM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK II - A IRA DE KHAN[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=x8X44NRltMM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek II - A IRA DE KHAN[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/JORNDMSESTRLS02.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK II - A IRA DE KHAN[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/JORNDMSESTRLS02.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek II - A IRA DE KHAN[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/9Y0SgSK/startrek-2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>O almirante James T. Kirk e o capitão Spock observam os cadetes da Academia da Frota Estelar, enquanto outra embarcação da Federação dos Planetas Unidos está prestes a testar o dispositivo Genesis, para criar um planeta em uma parte deserta do espaço. No processo, dois dos oficiais de Kirk são capturados por Khan. Mais uma vez, Kirk assume o comando da Enterprise e enfrenta a nave de Khan em um confronto intergaláctico.</info>
 <genre>FICÇÃO</genre>  
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK III - A PROCURA DE SPOCK - 1984 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek III - A Procura de Spock - 1984 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=aCgWzlxnqhc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK III - A PROCURA DE SPOCK[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=aCgWzlxnqhc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek III - A PROCURA DE SPOCK[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK03.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK III - A PROCURA DE SPOCK[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK03.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek III - A PROCURA DE SPOCK[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/tJTCDSV/startrek-3-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -70,11 +71,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK IV - A VOLTA PARA CASA - 1986 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek IV - A Volta pra Casa - 1986 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=QOhoIBkOYf0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK IV - A VOLTA PARA CASA[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=QOhoIBkOYf0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek IV - A VOLTA PARA CASA[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK04.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK IV - A VOLTA PARA CASA[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK04.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek IV - A VOLTA PARA CASA[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/6Xd4S8v/startrek-4-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -84,11 +85,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK V - A ÚLTIMA FRONTEIRA  - 1989 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek V - A Última Fronteira  - 1989 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=7S5TDrAWBd8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK V - A ÚLTIMA FRONTEIRA[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=7S5TDrAWBd8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek V - A ÚLTIMA FRONTEIRA[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK05.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK V - A ÚLTIMA FRONTEIRA[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK05.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek V - A ÚLTIMA FRONTEIRA[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/VDd1Yfk/startrek-5-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -98,11 +99,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK VI - A TERRA DESCONHECIDA - 1991 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek VI - A Terra Desconhecida - 1991 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=RYA2q2Sm_Jo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK VI - A TERRA DESCONHECIDA[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=RYA2q2Sm_Jo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek VI - A TERRA DESCONHECIDA[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK06.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK VI - A TERRA DESCONHECIDA[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK06.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek VI - A TERRA DESCONHECIDA[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/2W44FjC/startrek-6-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -112,11 +113,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK VII - GENERATIONS - 1994 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek VII - Generations - 1994 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=KxVyLLHLmz4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - NEW GENERATIONS[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=KxVyLLHLmz4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - NEW GENERATIONS[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK07.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - NEW GENERATIONS[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK07.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - NEW GENERATIONS[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/Q94TpCP/startrek-7-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -126,11 +127,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK VIII - PRIMEIRO CONTATO - 1996 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek VIII - Primeiro Contato - 1996 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=B3NJ49VyjDs$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK VIII - PRIMEIRO CONTATO[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=B3NJ49VyjDs$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek VIII - PRIMEIRO CONTATO[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/JORNDMSESTRLS08.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK VIII - PRIMEIRO CONTATO[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/JORNDMSESTRLS08.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek VIII - PRIMEIRO CONTATO[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/JsH9M3g/startrek-8-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -140,11 +141,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK IX - INSURREIÇAO - 1998 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek IX - Insurreição - 1998 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=4rVxjV342W4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - INSURREICAO[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=4rVxjV342W4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - INSURREICAO[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/JRNDNESTRLINSRC.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - INSURREICAO[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/JRNDNESTRLINSRC.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - INSURREICAO[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/4dd15yJ/startrek-9-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -154,11 +155,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK X -  NÊMESIS - 2002 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek X -  Nêmesis - 2002 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=eX15_g1Kc48$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK X -  NEMESIS[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=eX15_g1Kc48$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek X -  NEMESIS[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK10.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK X -  NEMESIS[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK10.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek X -  NEMESIS[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/xS68sST/startrek-10-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -168,11 +169,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK XI - 2009 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek XI - 2009 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=iGAHnZ555nI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XI[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=iGAHnZ555nI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek XI[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK11.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XI[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK11.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek XI[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/YyN88Yh/startrek-11-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -182,11 +183,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK XII - ALÉM DA ESCURIDÃO - 2013 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek XII - Além da Escuridão - 2013 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=eRnlHa9VcXE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XI - ALEM DA ESCURIDAO[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=eRnlHa9VcXE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek XI - ALEM DA ESCURIDAO[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/JORNDMSESTRLS12.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XI - ALEM DA ESCURIDAO[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/JORNDMSESTRLS12.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek XI - ALEM DA ESCURIDAO[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/vzf8Ysw/startrek-12-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -196,11 +197,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK XIII - SEM FRONTEIRAS - 2016 - 1080 - DUB [/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek XIII - Sem Fronteiras - 2016 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=XRVD32rnzOw$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XII - SEM FRONTEIRAS[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=XRVD32rnzOw$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek XII - SEM FRONTEIRAS[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK13.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XII - SEM FRONTEIRAS[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/STRTRK13.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek XII - SEM FRONTEIRAS[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/Qv4Tzy6/startre-k13-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -212,23 +213,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR blue][B] STAR TREK - SÉRIES[/B][/COLOR]</name>
+<name>[COLOR blue][B] Star Trek - Séries[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Sy1841G/startrek-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>STAR TREK - SÉRIES</info>
+<info>Assista aqui as Séries da franquia Star Trek</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - A SÉRIE[/B][/COLOR]</name>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - A Série Original[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/XDyt99R/startrekaserie-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>STAR TREK - A SÉRIE</info>
+<info>Star Trek - A SÉRIE</info>
 <genre>FICÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - A SÉRIE[/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - A Série Original/B][/COLOR]</title>
  <link>plugin://plugin.video.youtube/play/?video_id=x7gGVKeRtZ8</link>
 <thumbnail>https://i.ibb.co/XDyt99R/startrekaserie-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -238,7 +239,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - A SERIE - 1ª TEMP - 1966 a 1969 - DUB[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - A Série Original- T01 - 1966 a 1969 - Dublado[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C64E42D9BC2A6303C4CC371FF7DD4FA4611710D4&dn=Star%20Trek%20-%20A%20S%c3%a9rie%20Original%201%c2%aa%20Temporada%20Completa%20720p%20%281966%29%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2750%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
 <thumbnail>https://i.ibb.co/XDyt99R/startrekaserie-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -248,7 +249,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - A SERIE - 2ª TEMP - 1966 a 1969 - DUB[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - A Série Original- T02 - 1966 a 1969 - Dublado[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFF1DC731FB709999B31A17B0640342782668162&dn=Star%20Trek%20-%20A%20S%c3%a9rie%20Original%202%c2%aa%20Temporada%20Completa%20720p%20%281967%29%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2750%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
 <thumbnail>https://i.ibb.co/XDyt99R/startrekaserie-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -258,7 +259,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - A SERIE - 1ª TEMP - 1966 a 1969 - DUB[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - A Série Original- T01 - 1966 a 1969 - Dublado[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DA97E9755A6B48B244426D64F8FA34A2BEFAEED&dn=Star%20Trek%20-%20A%20S%c3%a9rie%20Original%203%c2%aa%20Temporada%20Completa%20720p%20%281968%29%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2790%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2770%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
 <thumbnail>https://i.ibb.co/XDyt99R/startrekaserie-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -268,7 +269,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - A SÉRIE - 1ª TEMP - 1966 a 1969 - 720 - DUB[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - A SÉRIE - T01 - 1966 a 1969 - 720 - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer11/ondemand/STRTRKT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Sal da Terra[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer11/ondemand/STRTRKT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Estranho Charlie[/COLOR]</link>
@@ -308,7 +309,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - A SÉRIE - 2ª TEMP - 1966 a 1969 - 720 - DUB[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - A SÉRIE - T02 - 1966 a 1969 - 720 - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer11/ondemand/STRTRKT02EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tempo De Loucura[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer11/ondemand/STRTRKT02EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Lamento Por Adonis[/COLOR]</link>
@@ -345,7 +346,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - A SÉRIE - 3ª TEMP - 1966 a 1969 - 720 - DUB[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - A SÉRIE - 3ª TEMP - 1966 a 1969 - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer11/ondemand/STRTRKT03EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Cerebro de Spock[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer11/ondemand/STRTRKT03EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Incidente Entrerprise[/COLOR]</link>
@@ -382,15 +383,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK  - A SÉRIE ANIMADA[/B][/COLOR]</name>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek  - A Série Animada[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/7kKYyqP/startrekanimada-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>STAR TREK  - A SÉRIE ANIMADA</info>
+<info>Star Trek  - A SÉRIE ANIMADA</info>
 <genre>FICÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK  - A SÉRIE ANIMADA [/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek  - A Série Animada [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=ESaMe-rbsqQ</link>
 <thumbnail>https://i.ibb.co/7kKYyqP/startrekanimada-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -400,7 +401,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK  - A SÉRIE ANIMADA - 1ª TEMP - 1973 a 1974 - 1080 - DUB[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek  - A Série Animada - T01 - 1973 a 1974 - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer11/ondemand/STRTRKSANMDT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Alem da Estrela Mais Distante[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer11/ondemand/STRTRKSANMDT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Perdido no Esquecimento[/COLOR]</link>
@@ -427,7 +428,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK  - A SÉRIE ANIMADA - 2ª TEMP - 1973 a 1974 - 1080 - DUB[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek  - A Série Animada - T02 - 1973 a 1974 - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKSANMDT02EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Os Piratas de Orion[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKSANMDT02EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Comandante Bem[/COLOR]</link>
@@ -446,15 +447,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - ENTERPRISE[/B][/COLOR]</name>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Enterprise[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/GkYvBV2/startrekenterprise-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>STAR TREK - ENTERPRISE</info>
+<info>Star Trek - Enterprise</info>
 <genre>FICÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - ENTERPRISE [/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Enterprise [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=mdxynXpRyBw</link>
 <thumbnail>https://i.ibb.co/GkYvBV2/startrekenterprise-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -464,7 +465,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - ENTERPRISE - 1ª TEMP - 2001 a 2005 - 1080 - DUB[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Enterprise - T01 - 2001 a 2005 - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKENTRPRSET01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Broken Bow[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKENTRPRSET01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Luta Ou Fuga[/COLOR]</link>
@@ -500,7 +501,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - ENTERPRISE - 2ª TEMP - 2001 a 2005 - 1080 - DUB[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Enterprise - T02 - 2001 a 2005 - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKENTRPRSET02EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Onda De Choque (Parte 2)[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKENTRPRSET02EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Carbon Creek[/COLOR]</link>
@@ -537,7 +538,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - ENTERPRISE - 3ª TEMP - 2001 a 2005 - 1080 - DUB[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Enterprise - T03 - 2001 a 2005 - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKENTRPRSET03EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Os Xindis[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKENTRPRSET03EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Anomalia[/COLOR]</link>
@@ -572,7 +573,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - ENTERPRISE - 4ª TEMP - 2001 a 2005 - 1080 - DUB[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Enterprise - T04 - 2001 a 2005 - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKENTRPRSET04EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tempestade Temporal (Parte 1)[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKENTRPRSET04EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tempestade Temporal (Parte 2)[/COLOR]</link>
@@ -607,15 +608,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - DISCOVERY [/B][/COLOR]</name>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Discovery [/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/2ccGn3q/startrekdiscovery-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>STAR TREK - DISCOVERY</info>
+<info>Star Trek - Discovery</info>
 <genre>FICÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - DISCOVERY[/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Discovery[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=aSK8owZEbDk</link>
 <thumbnail>https://i.ibb.co/2ccGn3q/startrekdiscovery-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -626,35 +627,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY - 1ª TEMP - 2017 - DUB[/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery - T01 - 2017 - Dublado[/COLOR]</title>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59BCA17DDC5CD299B07652F5E21BB2BB88645245&dn=Star%20Trek%20Discovery%202017%20-%20S01E01-02%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E01e2 [/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2968E4EF78EEEE76A87C7E64ED0B6377EE8E791E&dn=Star%20Trek%20Discovery%202017%20-%20S01E03%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F04DB801429E466ADB8E4D01726EAC281C1E233&dn=Star%20Trek%20Discovery%202017%20-%20S01E04%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC468882DFD0A00317C47ADC04204E5BAED5BBCD&dn=Star%20Trek%20Discovery%202017%20-%20S01E05%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDD07C1D29722E5C8CA51392C738C63732D6E214&dn=Star%20Trek%20Discovery%202017%20-%20S01E06%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8db3c94c2df3babac34fb0249f3d14a78aa98aa9&dn=Star.Trek.Discovery.S01E07.720p.WEB-DL.x264-DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce$$lsname=[B] T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4887623A5B57D6008B5F981CC9789D2F0465CBDA&dn=Star%20Trek%20Discovery%202017%20-%20S01E07-08%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20996742EFE06263303E12DE9D6A3CCCD6441FB7&dn=Star%20Trek%20Discovery%202017%20-%20S01E09%20%5bWEB-DL%5d%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22380C6B5A94C479E908751FEEAD8FF494D51E81&dn=Star.Trek.Discovery.S01E10.720p.WEB.x264-DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74B6FA8DF7B117DB32B39DB28BA2BAB345C5E57B&dn=Star.trek.discovery.01x11.WEB-DL.720p.DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06A49BD538480C769F4C140B9D15682D2327BB55&dn=Star.Trek.Discovery.S01E12.720p.WEB.DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2750%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2AD483998B5D85D05C2CF27307E0C8037524F59&dn=Star.Trek.Discovery.S01E13.720p.WEB.DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2730%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54818F462E9260411E6B024212B1946D36562D32&dn=Star.Trek.Discovery.S01E14.720p.WEB.DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2750%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0585BC965EA020AB88C786C10977A4509581CF70&dn=Star.trek.discovery.S01E15.720p.WEB.DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/2ccGn3q/startrekdiscovery-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Após ser condenada a prisão perpétua por conta de suas atitudes naquilo que significaria a reorganização do Império Klingon, a ex-primeira oficial da Frota Estela, Michael Burnham, é recrutada pelo Capitão Lorca para ajuda-lo na nova tecnologia utilizada na nave USS-Discovery que fornecerá uma grandiosa vantagem na guerra que está por vir.</info>
-<genre>FICÇÂO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - DISCOVERY - 2ª TEMP - 2017 - DUB[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:959ABCD62BDF80A9C13E6BDF6D8819EDF0F416DA&dn=%7bWWW.BLUDV.TV%7d%20Star%20Trek%20Discovery%20-%202%c2%aa%20Temporada%20Completa%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27B492FE1484D72A5BCA495A088A53B9BB87A406&dn=%7bWWW.BLUDV.TV%7d%20Star%20Trek%20Discovery%20-%202%c2%aa%20Temporada%20Completa%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59BCA17DDC5CD299B07652F5E21BB2BB88645245&dn=Star%20Trek%20Discovery%202017%20-%20S01E01-02%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E01e2 [/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2968E4EF78EEEE76A87C7E64ED0B6377EE8E791E&dn=Star%20Trek%20Discovery%202017%20-%20S01E03%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F04DB801429E466ADB8E4D01726EAC281C1E233&dn=Star%20Trek%20Discovery%202017%20-%20S01E04%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC468882DFD0A00317C47ADC04204E5BAED5BBCD&dn=Star%20Trek%20Discovery%202017%20-%20S01E05%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDD07C1D29722E5C8CA51392C738C63732D6E214&dn=Star%20Trek%20Discovery%202017%20-%20S01E06%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8db3c94c2df3babac34fb0249f3d14a78aa98aa9&dn=Star.Trek.Discovery.S01E07.720p.WEB-DL.x264-DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce$$lsname=[B] T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4887623A5B57D6008B5F981CC9789D2F0465CBDA&dn=Star%20Trek%20Discovery%202017%20-%20S01E07-08%20%5bWEB-DL%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20996742EFE06263303E12DE9D6A3CCCD6441FB7&dn=Star%20Trek%20Discovery%202017%20-%20S01E09%20%5bWEB-DL%5d%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B] T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22380C6B5A94C479E908751FEEAD8FF494D51E81&dn=Star.Trek.Discovery.S01E10.720p.WEB.x264-DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74B6FA8DF7B117DB32B39DB28BA2BAB345C5E57B&dn=Star.trek.discovery.01x11.WEB-DL.720p.DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06A49BD538480C769F4C140B9D15682D2327BB55&dn=Star.Trek.Discovery.S01E12.720p.WEB.DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2750%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2AD483998B5D85D05C2CF27307E0C8037524F59&dn=Star.Trek.Discovery.S01E13.720p.WEB.DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2730%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54818F462E9260411E6B024212B1946D36562D32&dn=Star.Trek.Discovery.S01E14.720p.WEB.DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2750%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0585BC965EA020AB88C786C10977A4509581CF70&dn=Star.trek.discovery.S01E15.720p.WEB.DUAL.WWW.COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B] T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/2ccGn3q/startrekdiscovery-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -664,10 +652,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - DISCOVERY - 2ª TEMP - 2017 - LEG[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Discovery - T02 - 2017 - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:959ABCD62BDF80A9C13E6BDF6D8819EDF0F416DA&dn=%7bWWW.BLUDV.TV%7d%20Star%20Trek%20Discovery%20-%202%c2%aa%20Temporada%20Completa%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27B492FE1484D72A5BCA495A088A53B9BB87A406&dn=%7bWWW.BLUDV.TV%7d%20Star%20Trek%20Discovery%20-%202%c2%aa%20Temporada%20Completa%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - DISCOVERY - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:959ABCD62BDF80A9C13E6BDF6D8819EDF0F416DA&dn=%7bWWW.BLUDV.TV%7d%20Star%20Trek%20Discovery%20-%202%c2%aa%20Temporada%20Completa%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27B492FE1484D72A5BCA495A088A53B9BB87A406&dn=%7bWWW.BLUDV.TV%7d%20Star%20Trek%20Discovery%20-%202%c2%aa%20Temporada%20Completa%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery - Dublado[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/2ccGn3q/startrekdiscovery-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -677,16 +665,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - DISCOVERY - 3ª TEMP - 2017 - LEG[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Discovery - T02 - 2017 - Legendado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3361b44b319eec6740822fed162f23ded8694379&dn=COMOEUBAIXO.COM.-LEGENDADO-.Star.Trek.Discovery.S03E01.720p.WEB.H264-CAKES%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2840$$lsname=[B]TORRENT T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Minha Esperanca e Voce (Parte 1)[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4ad4a4afbbfb4385e4e7276c1b0757b184a2692&dn=COMOEUBAIXO.COM.-LEGENDADO-.Star.Trek.Discovery.S03E02.Far.frome.Home.720p.CBS.WEBRip.AAC2.0.x264-TEPES%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2950&tr=udp%3A%2F%2F9.rarbg.to%3A2910$$lsname=[B]TORRENT T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Longe de Casa[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a23f19df4861763d5d547e950309ccb2efd165c8&dn=COMOEUBAIXO.COM.-LEGENDADO-.Star.Trek.Discovery.S03E03.People.of.Earth.720p.CBS.WEBRip.AAC2.0.x264-TEPES%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2980&tr=udp%3A%2F%2F9.rarbg.to%3A2910$$lsname=[B]TORRENT T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Povo da Terra[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d84a0f8ea7a9fa99a02264d00914293a5f78179&dn=COMOEUBAIXO.COM.-LEGENDADO-.Star.Trek.Discovery.S03E04.Forget.Me.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2880&tr=udp%3A%2F%2F9.rarbg.to%3A2930$$lsname=[B]TORRENT T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nao Me Esqueca[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0635e74032ca7238db25f40c7ad7563b78902577&dn=COMOEUBAIXO.COM.-LEGENDADO-.Star.Trek.Discovery.S03E05.Die.Trying.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2980&tr=udp%3A%2F%2F9.rarbg.to%3A2910$$lsname=[B]TORRENT T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Morrer Tentando[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58d019e216b997a0c423cfac33aa6b537926a4cb&dn=COMOEUBAIXO.COM.-LEGENDADO-.Star.Trek.Discovery.S03E06.Scavengers.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2980&tr=udp%3A%2F%2F9.rarbg.to%3A2930$$lsname=[B]TORRENT T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Piratas[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b966b3f6a420cdcc2dc1b15ecc20a033423d0a9d&dn=COMOEUBAIXO.COM.-LEGENDADO-.Star.Trek.Discovery.S03E07.Unification.III.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2920$$lsname=[B]TORRENT T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Unificacao III[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe6eeec8e3f4fc0f41d10d4990dc67ec130ad3a6&dn=COMOEUBAIXO.COM.-LEGENDADO-.Star.Trek.Discovery.S03E08.The.Sanctuary.720p.NF.WEBRip.DDP5.1.x264-LAZY%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2930&tr=udp%3A%2F%2F9.rarbg.to%3A2970$$lsname=[B]TORRENT T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Santuario[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:959ABCD62BDF80A9C13E6BDF6D8819EDF0F416DA&dn=%7bWWW.BLUDV.TV%7d%20Star%20Trek%20Discovery%20-%202%c2%aa%20Temporada%20Completa%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27B492FE1484D72A5BCA495A088A53B9BB87A406&dn=%7bWWW.BLUDV.TV%7d%20Star%20Trek%20Discovery%20-%202%c2%aa%20Temporada%20Completa%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] Star Trek - Discovery - Dublado[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/2ccGn3q/startrekdiscovery-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após ser condenada a prisão perpétua por conta de suas atitudes naquilo que significaria a reorganização do Império Klingon, a ex-primeira oficial da Frota Estela, Michael Burnham, é recrutada pelo Capitão Lorca para ajuda-lo na nova tecnologia utilizada na nave USS-Discovery que fornecerá uma grandiosa vantagem na guerra que está por vir.</info>
+<genre>FICÇÂO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Discovery - T03 - 2017 - Legendado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3361b44b319eec6740822fed162f23ded8694379&dn=COMOEUBAIXO.COM.-LegendadoENDADO-.Star.Trek.Discovery.S03E01.720p.WEB.H264-CAKES%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2840$$lsname=[B]TORRENT T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Minha Esperanca e Voce (Parte 1)[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4ad4a4afbbfb4385e4e7276c1b0757b184a2692&dn=COMOEUBAIXO.COM.-LegendadoENDADO-.Star.Trek.Discovery.S03E02.Far.frome.Home.720p.CBS.WEBRip.AAC2.0.x264-TEPES%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2950&tr=udp%3A%2F%2F9.rarbg.to%3A2910$$lsname=[B]TORRENT T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Longe de Casa[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a23f19df4861763d5d547e950309ccb2efd165c8&dn=COMOEUBAIXO.COM.-LegendadoENDADO-.Star.Trek.Discovery.S03E03.People.of.Earth.720p.CBS.WEBRip.AAC2.0.x264-TEPES%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2980&tr=udp%3A%2F%2F9.rarbg.to%3A2910$$lsname=[B]TORRENT T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Povo da Terra[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d84a0f8ea7a9fa99a02264d00914293a5f78179&dn=COMOEUBAIXO.COM.-LegendadoENDADO-.Star.Trek.Discovery.S03E04.Forget.Me.Not.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2880&tr=udp%3A%2F%2F9.rarbg.to%3A2930$$lsname=[B]TORRENT T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nao Me Esqueca[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0635e74032ca7238db25f40c7ad7563b78902577&dn=COMOEUBAIXO.COM.-LegendadoENDADO-.Star.Trek.Discovery.S03E05.Die.Trying.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2980&tr=udp%3A%2F%2F9.rarbg.to%3A2910$$lsname=[B]TORRENT T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Morrer Tentando[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58d019e216b997a0c423cfac33aa6b537926a4cb&dn=COMOEUBAIXO.COM.-LegendadoENDADO-.Star.Trek.Discovery.S03E06.Scavengers.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2980&tr=udp%3A%2F%2F9.rarbg.to%3A2930$$lsname=[B]TORRENT T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Piratas[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b966b3f6a420cdcc2dc1b15ecc20a033423d0a9d&dn=COMOEUBAIXO.COM.-LegendadoENDADO-.Star.Trek.Discovery.S03E07.Unification.III.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2920$$lsname=[B]TORRENT T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Unificacao III[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe6eeec8e3f4fc0f41d10d4990dc67ec130ad3a6&dn=COMOEUBAIXO.COM.-LegendadoENDADO-.Star.Trek.Discovery.S03E08.The.Sanctuary.720p.NF.WEBRip.DDP5.1.x264-LAZY%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2930&tr=udp%3A%2F%2F9.rarbg.to%3A2970$$lsname=[B]TORRENT T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Santuario[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/2ccGn3q/startrekdiscovery-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -697,7 +698,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - DISCOVERY - 1ª TEMP - 2017 - 720 - LEG[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Discovery - T01 - 2017 - Legendado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer13/ondemand/STRTRKS01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Ola Vulcano[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer13/ondemand/STRTRKS01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Batalha Das Estrelas Binarias[/COLOR]</link>
@@ -723,7 +724,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - DISCOVERY - 2ª TEMP - 2019 - 720 - LEG[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Discovery - T02 - 2019 - Legendado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer06/ondemand/STRTRKS02EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Irmao[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer06/ondemand/STRTRKS02EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Novo Eden[/COLOR]</link>
@@ -748,7 +749,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - DISCOVERY - 3ª TEMP - 2020 - 1080 - LEG[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Discovery - T03 - 2020 - Legendado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer04/ondemand/STRTRKS03EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Minha Esperanca e Voce (Parte 1)[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer04/ondemand/STRTRKS03EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Longe de Casa[/COLOR]</link>
@@ -768,15 +769,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - PICARD[/B][/COLOR]</name>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Picard[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/825QWWV/startrekpicar-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>STAR TREK - PICARD</info>
+<info>Star Trek - Picard</info>
 <genre>FICÇÃO</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK PICARD[/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek Picard[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=-Ja_AIEbLkE</link>
 <thumbnail>https://i.ibb.co/825QWWV/startrekpicar-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -786,7 +787,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK PICARD - 2020 - DUB[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek Picard - 2020 - Dublado[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acfe23bce8253d067fac3a2cf4476cd957b76513&dn=COMANDOTORRENTS.ORG%20-%20Star%20Trek%20Picard%20S01E01%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce$$lsname=[B]TORRENT T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Recordacoes[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c921ee35a66093055c752ff30063ef7d711b5176&dn=LAPUMiA.Org%20-%20Jornada%20nas%20Estrelas%20-%20Picard%202020%20-%20S01E02%20(720p)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mapas e Lendas[/COLOR]</link>
@@ -809,7 +810,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK PICARD - 2020 - RES - DUB[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek Picard - 2020 - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKPCRDT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Recordacoes[/COLOR] T01E01</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer08/ondemand/STRTRKPCRDT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mapas e Lendas[/COLOR]T01E02</link>
