@@ -116,6 +116,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] James Bond - 007 - Coleção completa - 1962 - 2016 - Dublado[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Ii1tc493bZM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] James Bond - 007 [/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5657259266875D041EA818D3151E618779BA14F7&dn=james+bond+007+collection+24+filmes+dublado+5+1+canais+1080p+ComandoFilmes+johnl&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce$$lsname=[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] James Bond - 007 - Coleção completa - 1962 - 2016 - Dublado[/COLOR]</link>
+
+<thumbnail>http://bit.do/iconesubcat-007</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O personagem foi apresentado ao público em livros de bolso na década de 1950, com a novela Casino Royale, tornando-se um sucesso de venda e popularidade entre os britânicos e, logo a seguir, entre os países de língua inglesa. Na década seguinte, os livros viraram uma grande franquia no cinema, a mais duradora e bem sucedida financeiramente, com um total de vinte dois filmes oficiais.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
@@ -158,7 +171,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Coleção Mazzaropi - Dublado[/B][/COLOR]</title>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Coleção Mazzaropi - 1952 - 1980 - Dublado[/B][/COLOR]</title>
 
 <link>http://dnsblack.online:80/movie/06821041/65706055/36285.mp4$$lsname=[B]MAZZAROPI[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nadando em Dinheiro[/COLOR](1952)
 
@@ -235,10 +248,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] Coleção Mazzaropi - Dublado[/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] Coleção Mazzaropi - 1952 - 1980 - Dublado[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=iKbXQk3xRaQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c13b1ce21a17e37eac882f2a748820d70fbda91&dn=Mazzaropi+Cole%26ccedil%3B%26atilde%3Bo+DVD+Pack&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT SD[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI - SD - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=iKbXQk3xRaQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mazzaropi[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c13b1ce21a17e37eac882f2a748820d70fbda91&dn=Mazzaropi+Cole%26ccedil%3B%26atilde%3Bo+DVD+Pack&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT SD[/B][COLOR yellow] ->[/COLOR][COLOR lime] Coleção Mazzaropi - 1952 - 1980 - Dublado[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/cCR3BT0/mazzaropi-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/PTd187B/mazzaropi-fan.jpg</fanart>
