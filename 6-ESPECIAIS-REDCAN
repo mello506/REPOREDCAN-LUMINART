@@ -11,7 +11,7 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]SEÇÕES ESPECIAIS REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR blue][B]SEÇÕES ESPECIAIS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/t2pvm2f/scoesespeciais-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ESPECIAL</info>
@@ -22,16 +22,42 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Star Trek - Filmes e Séries[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOREDCAN-LUMINART/main/6A2-ESPECIAL-STARTREK-REDCAN</externallink>
-<thumbnail>https://i.ibb.co/Sy1841G/startrek-pasta.png</thumbnail>
+<name>[COLOR lime][B]Especial X-Men[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOREDCAN-LUMINART/main/6A2-ESPECIAL-XMEN-REDCAN</externallink>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>>
+<info>Tudo que você procura da franquia esta aqui</info>
+<genre>SUPER-HERÓIS</genre> 
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]Especial STAR WARS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOREDCAN-LUMINART/main/6A3-ESPECIAL-STARWARS-REDCAN</externallink>
+<thumbnail>https://i.ibb.co/p3yy0y9/cat-espstarwars.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui Star Trek - Coleção completa no REDE CANAIS</info>
+<info>Tudo que você procura da franquia esta aqui</info>
+<genre>FANTASIA</genre>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]Especial Star Trek[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOREDCAN-LUMINART/main/6A2-ESPECIAL-STARTREK-REDCAN</externallink>
+<thumbnail>https://i.ibb.co/p3yy0y9/cat-espstarwars.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Tudo que você procura da franquia esta aqui</info>
 <genre>FICÇÃO</genre>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
