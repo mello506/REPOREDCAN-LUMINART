@@ -299,5 +299,77 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO ESPECIAL[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Crepúsculo [/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui a coleção completa da saga Crepúsculo</info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Crepúsculo - Coleção completa[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Escolha o filme da saga Crepúsculo - Coleção completa para assistir</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Crepúsculo[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fFLrRlPBg0A</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>AÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Crepúsculo - Coleção completa - 2011 - 2008 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F64324E113767B7A5D27E279CFB15D41E7DBD4C&dn=A%20Saga%20Crepusculo%20Completa</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>Todos os filmes da saga Crepúsculo, incluindo o primeiro filme Crepúsculo (2008), Lua Nova (2009), Eclipse (2010), Amanhecer Parte 1 (2011) e o último filme da franquia Amanhecer Parte 2 (2012). Bella (Kristen Stewart) é uma jovem adolescente que se muda para Forks, Washington, para viver com o pai. Assim que ela chega ao local, Bella fica sabendo de uma misteriosa família moradora da cidade. Ela acaba conhecendo um dos cinco irmãos da tal família, Edward (Robert Pattinson), e aos poucos vai descobrindo alguns segredos. O mais importante de todos é que se tratam de vampiros. Bella fica assustada com aquilo, mas decide encarar os riscos e seguir adiante com a paixão que a move pelo rapaz. </info>
+<genre>FANTASIA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Crepúsculo - Coleção completa - 2011 - 2008 - Dublado[/B][/COLOR]</title>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40849.mp4$$lsname=[B]2008[/B][COLOR yellow] ->[/COLOR][COLOR red] Crepusculo - Dublado[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40850.mp4$$lsname=[B]2009[/B][COLOR yellow] ->[/COLOR][COLOR lime] Lua Nova - Dublado[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40851.mp4$$lsname=[B]2010[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eclipse - Dublado[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40852.mp4$$lsname=[B]2011[/B][COLOR yellow] ->[/COLOR][COLOR lime] Amanhecer - Parte 1 - Dublado[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40853.mp4$$lsname=[B]2012[/B][COLOR yellow] ->[/COLOR][COLOR lime] Amanhecer - Parte 2 - Dublado[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Twilight é uma série de histórias de fantasia e romance sobre vampiros escrita por Stephenie Meyer. A saga conta a história de Isabella Swan, uma adolescente que se muda de Phoenix para Forks, em Washington, experimentando um mundo totalmente novo para si ao apaixonar-se por Edward Cullen, um vampiro</info>
+<genre>FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Crepúsculo - Coleção completa - 2011 - 2008 - Dublado[/B][/COLOR]</title>
+
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/ASGCRSPCLO01.mp4$$lsname=[B]2008[/B][COLOR yellow] ->[/COLOR][COLOR red] Crepusculo - Dublado[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/ASGCRSPCLO02.mp4$$lsname=[B]2009[/B][COLOR yellow] ->[/COLOR][COLOR lime] Lua Nova - Dublado[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/ASGCRSPCLO03.mp4$$lsname=[B]2010[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eclipse - Dublado[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/ASGCRSPCLO04.mp4$$lsname=[B]2011[/B][COLOR yellow] ->[/COLOR][COLOR lime] Amanhecer - Parte 1 - Dublado[/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/ASGCRSPCLO05.mp4$$lsname=[B]2012[/B][COLOR yellow] ->[/COLOR][COLOR lime] Amanhecer - Parte 2 - Dublado[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Twilight é uma série de histórias de fantasia e romance sobre vampiros escrita por Stephenie Meyer. A saga conta a história de Isabella Swan, uma adolescente que se muda de Phoenix para Forks, em Washington, experimentando um mundo totalmente novo para si ao apaixonar-se por Edward Cullen, um vampiro</info>
+<genre>FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
