@@ -1,5 +1,43 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="desenhos" tvg-logo="ICONE" group-title="scooby-doo",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] Dinamite o Bionicâo - 1976 – 1977 - 1080 - DUB [/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rastejador[/COLOR][COLOR yellow] -> [/COLOR] T01E01 
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP01.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] E Agora Meu Chapa?[/COLOR][COLOR yellow] -> [/COLOR] T01E02
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP02.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Grande Assalto do Trem[/COLOR][COLOR yellow] -> [/COLOR] T01E03
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP03.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Confusão Total[/COLOR][COLOR yellow] -> [/COLOR] T01E04
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP04.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Ladrão do Porto[/COLOR][COLOR yellow] -> [/COLOR] T01E05
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP05.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sinfonia Sinistra[/COLOR][COLOR yellow] -> [/COLOR] T01E06
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP06.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Não Pertube o Homem[/COLOR][COLOR yellow] -> [/COLOR] T01E07
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP07.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Caso da Fábrica[/COLOR][COLOR yellow] -> [/COLOR] T01E08
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP08.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Rainha Vesta[/COLOR][COLOR yellow] -> [/COLOR] T01E09
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP09.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Mágico de Ooze[/COLOR][COLOR yellow] -> [/COLOR] T01E10
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP10.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tin Kong [/COLOR][COLOR yellow] -> [/COLOR] T01E11
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP11.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Cabeça Dura[/COLOR][COLOR yellow] -> [/COLOR] T01E12
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP12.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Falcão Azul Encontra Vulture[/COLOR][COLOR yellow] -> [/COLOR] T01E13
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP13.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Liga da Justiça da América[/COLOR][COLOR yellow] -> [/COLOR] T01E14
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP14.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Mais Leve que o Ar[/COLOR][COLOR yellow] -> [/COLOR] T01E15
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP15.mp4
+#EXTINF:-1 group-title="",[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Os Lucros do Profeta[/COLOR][COLOR yellow] -> [/COLOR] T01E16
+https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/DNMTOBONCEP16.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-id="" tvg-name="DESENHOS" tvg-logo="ICONE" group-title="TOM E JERRY",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] Tom e Jerry - T01 - Dublado[/COLOR]
 LINKDOFILME
 
