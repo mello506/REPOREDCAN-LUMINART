@@ -21,7 +21,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Longas - Ordem cronológica[/B][/COLOR]</name>
+<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Longas Coleção[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Eescolha o servidor para assistir</info>
@@ -29,7 +29,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Longas - Ordem cronológica[/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Longas - Ordem cronológica[/B][/COLOR]</title>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui os Filmes e Desenhos da franquia Scooby-Doo</info>
@@ -38,7 +38,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo e Os Irmãos Pavor - 1987 - Dublado[/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo e Os Irmãos Pavor - 1987 - Dublado[/B][/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/84qq3BXQnhxjHtupGWAMoPzJjHH.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WHHy9M198PZLj9MUW2jDjDvxgEArHDJC/view</link>
@@ -416,6 +416,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Scooby-Doo Séries Animadas[/B][/COLOR]</title>
+<thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os Filmes e Desenhos da franquia Scooby-Doo no G DRIVE</info>
+<genre>ANIMAÇÃO</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -429,100 +438,74 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Scooby-Doo Coleção[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui CATEGORIA Scooby-Doo Coleção no SERVER 1</info>
+<info>Assista aqui os filmes e desenhos do Scooby-Doo Coleção no REDE CANAIS</info>
 <genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8UkvkFPWi14</link>
+<thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ANIMAÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo - Coleção de Filmes - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/SCBYOFLME.mp4$$lsname=[B]2020[/B][COLOR yellow] ->[/COLOR][COLOR lime] SCOOBY O Filme[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/SCBYDO1.mp4$$lsname=[B]2002[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo I [/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/SCBYDO2.mp4$$lsname=[B]2004[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo II Monstros a Solta[/COLOR]</link>
- 
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/SCBYDO3.mp4$$lsname=[B]2009[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo III O Misterio Comeca[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/SCBYDO4.mp4$$lsname=[B]2011[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e a Maldicao do Monstro do Lago[/COLOR]</link
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/SCBYDODVLTAILHDSZMBS.mp4$$lsname=[B]2019[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo De Volta A Ilha dos Zumbis[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/SCOBYDOEAMLDCAOD13FNTSMA.mp4$$lsname=[B]2019[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e a Maldicao do 13 Fantasma[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/SCBYDOEOFNTSMGRMT.mp4$$lsname=[B]2018[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e o Fantasma Gourmet[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/SCBYDOEBTMNOSBVSEDSTMDS.mp4$$lsname=[B]2018[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e Batman Os Bravos e Destemidos[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM29.mp4$$lsname=[B]2017[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo O Golpe da Praia[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM28.mp4$$lsname=[B]2017[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e o Combate do Salsicha[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM27.mp4$$lsname=[B]2016[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e WWE Maldicao do Demonio Veloz[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM26.mp4$$lsname=[B]2016[/B][COLOR yellow] ->[/COLOR][COLOR lime] LEGO Scooby-Doo Hollywood Assombrada[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM25.mp4$$lsname=[B]2015[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e Kiss O Misterio do Rock and Roll[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM24.mp4$$lsname=[B]2015[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo! Loucura do Monstro da Lua[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM23.mp4$$lsname=[B]2014[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo A Maldicao do Frankenstein[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM22.mp4$$lsname=[B]2014[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo O Misterio WrestleMania[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM21.mp4$$lsname=[B]2013[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Aventuras de Scooby-Doo O Mapa Misterioso[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM20.mp4$$lsname=[B]2013[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo O Fantasma da Opera[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM19.mp4$$lsname=[B]2013[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo A Mascara do Falcao Azul[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM18.mp4$$lsname=[B]2012[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo A Tenda de Circo[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM17.mp4$$lsname=[B]2012[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo Musica de Vampiro[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM16.mp4$$lsname=[B]2011[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo A Lenda do Fantasmossauro[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM15.mp4$$lsname=[B]2010[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo Acampamento do Susto[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM14.mp4$$lsname=[B]2010[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo Abracadabra-Doo[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM13.mp4$$lsname=[B]2009[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e a Espada do Samurai[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM12.mp4$$lsname=[B]2008[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e o Rei dos Duendes[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM10.mp4$$lsname=[B]2006[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo Piratas a Bordo[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM09.mp4$$lsname=[B]2005[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo! em Cade a Minha Mumia?[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM08.mp4$$lsname=[B]2005[/B][COLOR yellow] ->[/COLOR][COLOR lime] Aloha Scooby-Doo[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM07.mp4$$lsname=[B]2004[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e o Monstro do Lago Ness [/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM06.mp4$$lsname=[B]2003[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e o Monstro do Mexico[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM05.mp4$$lsname=[B]2003[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e a Lenda do Vampiro[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM04.mp4$$lsname=[B]2011[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e a Cassada Virtual[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM03.mp4$$lsname=[B]2000[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e os Invasores Alienigenas[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM02.mp4$$lsname=[B]1999[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e a Bruxa Fantasma[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM11.mp4$$lsname=[B]2007[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo E o Abominavel Homem das Neves[/COLOR]</link>
-
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/SCBDFLM01.mp4$$lsname=[B]1998[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo na Ilha dos Zumbis[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
+<info> Quatro pessoas metidas a detetives Fred, Velma, Daphne e Salsicha, com um Dogue Alemão falante chamado Scooby-Doo, que viajam numa van chamada Máquina Mistério, e ajudam a investigar casos misteriosos. Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, a maioria das vezes ameaçados por monstros, zumbis, vilões, mas considerando os episódios, são a maioria das vezes chamados de "fantasmas",</info>
 <genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
 <channel>
 <name>[COLOR blue][B] Scooby-Doo Desenhos[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
@@ -534,12 +517,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SÉRIES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Séries Animadas[/B][/COLOR]</name>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Scooby-Doo Séries Animadas[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os Filmes e Desenhos da franquia Scooby-Doo</info>
+<info>Assista aqui os Filmes e Desenhos da franquia Scooby-Doo no REDE CANAIS</info>
 <genre>ANIMAÇÃO</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
