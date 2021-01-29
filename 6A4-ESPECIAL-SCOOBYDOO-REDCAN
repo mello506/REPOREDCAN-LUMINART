@@ -21,7 +21,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Longas Coleção[/B][/COLOR]</name>
+<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Coleção[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Eescolha o servidor para assistir</info>
@@ -29,7 +29,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Longas - Ordem cronológica[/B][/COLOR]</title>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Scooby-Doo Longas - Ordem cronológica[/B][/COLOR]</title>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui os Filmes e Desenhos da franquia Scooby-Doo</info>
@@ -387,13 +387,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels></channels>
-<channel>
-<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Curtas - Ordem cronológica[/B][/COLOR]</name>
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Scooby-Doo Curtas - Ordem cronológica[/B][/COLOR]</title>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui os Filmes e Desenhos da franquia Scooby-Doo</info>
 <genre>ANIMAÇÃO</genre> 
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -416,6 +416,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Scooby-Doo Séries Animadas[/B][/COLOR]</title>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
