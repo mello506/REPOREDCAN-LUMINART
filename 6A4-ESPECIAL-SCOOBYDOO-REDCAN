@@ -19,7 +19,6 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channels></channels>
 <channel>
 <name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Longas - Ordem cronológica[/B][/COLOR]</name>
@@ -30,7 +29,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Longas - Ordem cronológica[/B][/COLOR]</title>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Longas - Ordem cronológica[/B][/COLOR]</title>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui os Filmes e Desenhos da franquia Scooby-Doo</info>
@@ -420,39 +419,39 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilmeDASERIE[/B][/COLOR]</name>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Coleção[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui CATEGORIA  NomedoFilmeDASERIE no REDE CANAIS</info>
-<genre>GENERO</genre>
+<info>Assista aqui Scooby-Doo Coleção no REDE CANAIS</info>
+<genre>ANIMAÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedoFilmeDASERIE[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Scooby-Doo Coleção[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui CATEGORIA NomedoFilmeDASERIE no SERVER 1</info>
-<genre>GENERO</genre>  
+<info>Assista aqui CATEGORIA Scooby-Doo Coleção no SERVER 1</info>
+<genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilmeDASERIE [/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo Coleção [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao Trailer</info>
-<genre>GENERO</genre>  
+<genre>ANIMAÇÃO</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo - Coleção de Filmes - DATA - Dublado[/B][/COLOR]</title>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Scooby-Doo - Coleção de Filmes - Dublado[/B][/COLOR]</title>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/SCBYOFLME.mp4$$lsname=[B]2020[/B][COLOR yellow] ->[/COLOR][COLOR lime] SCOOBY O Filme[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/SCBYDO1.mp4$$lsname[B]2002[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo I [/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/SCBYDO1.mp4$$lsname=[B]2002[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo I [/COLOR]</link>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/SCBYDO2.mp4$$lsname=[B]2004[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo II Monstros a Solta[/COLOR]</link>
  
@@ -468,7 +467,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/SCBYDOEBTMNOSBVSEDSTMDS.mp4$$lsname=[B]2018[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e Batman Os Bravos e Destemidos[/COLOR]</link>
 
-<link>https://t6h7n3h2.stackpathcdn.com/RCFServer9/ondemand/SCBDFLM29.mp4$$lsname=[B]2017[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo O Golpe da Praia/COLOR]</link>
+<link>https://t6h7n3h2.stackpathcdn.com/RCFServer9/ondemand/SCBDFLM29.mp4$$lsname=[B]2017[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo O Golpe da Praia[/COLOR]</link>
 
 <link>https://t6h7n3h2.stackpathcdn.com/RCFServer9/ondemand/SCBDFLM28.mp4$$lsname=[B]2017[/B][COLOR yellow] ->[/COLOR][COLOR lime] Scooby-Doo e o Combate do Salsicha[/COLOR]</link>
 
@@ -529,12 +528,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SINOPSE</info>
-<genre>GENERO</genre>  
+<genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels></channels>
 <channel>
 <name>[COLOR blue][B] Scooby-Doo Desenhos[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/3MFv6YK/espscooby-doo-icon.jpg</thumbnail>
