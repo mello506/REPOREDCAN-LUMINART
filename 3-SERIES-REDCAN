@@ -103,23 +103,42 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]HATFIELDS E MAC COYS[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Hatfields e Mac Coys [/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/6Z3VMBx/hatfielsmccoys-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/Bt0Vhyg/hatfielsmccoys-fan.jpg</fanart>
-<info>Quando um McCoy é executado e as suspeitas recaem sobre membros da família Hatfield, começa a rixa entre essas duas famílias. Anos depois, o roubo de um porco reacende a animosidade entre elas, chamando até mesmo a atenção internacional.</info>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção Hatfields e Mac Coys  </info>
 <genre>WESTERN</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Hatfields e Mac Coys [/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/6Z3VMBx/hatfielsmccoys-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da Mini-Série Hatfields e Mac Coys no REDE CANAIS</info>
+<genre>WESTERN</genre>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]MINI SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MAC COYS - 2012 - DUB[/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Hatfields e Mac Coys[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8Hg9mvE1FA4</link>
+<thumbnail>https://i.ibb.co/6Z3VMBx/hatfielsmccoys-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>WESTERN</genre> 
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-link>plugin://plugin.video.youtube/play/?video_id=8Hg9mvE1FA4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MAC COYS[/COLOR]</link>
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Hatfields e Mac Coys - 2012 - Dublado[/B][/COLOR]</title>
+
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/HTFDSEMCYSEP01.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MAC COYS - 720 - DUB[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/HTFDSEMCYSEP02.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MAC COYS - 720 - DUB[/COLOR]</link>
 <link>https://t6h7n3h2.stackpathcdn.com/RCServer09/ondemand/HTFDSEMCYSEP03.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MAC COYS - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/6Z3VMBx/hatfielsmccoys-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/Bt0Vhyg/hatfielsmccoys-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Quando um McCoy é executado e as suspeitas recaem sobre membros da família Hatfield, começa a rixa entre essas duas famílias. Anos depois, o roubo de um porco reacende a animosidade entre elas, chamando até mesmo a atenção internacional.</info>
 <genre>WESTERN</genre>
 </item>
