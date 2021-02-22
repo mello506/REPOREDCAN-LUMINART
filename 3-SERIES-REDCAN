@@ -22,6 +22,68 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/DVDmNhB/dasboot-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Das Boot</info>
+<genre>GUERRA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Das Boot[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Das Boot no REDE CANAIS</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yndRSqA69Kc</link>
+<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot - Dublado[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Das Boot - T01 - 2018 - Dublado[/B][/COLOR]</link>
+
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Novos Caminhos[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Missoes Secretas[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vitimas[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Duvidas [/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fidelidade[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nick Of Time[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Maldito[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avaliacao[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Das Boot - T02 - 2020 - Dublado[/B][/COLOR]</link>
+
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT02EP01.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Estrategias De Sobrevivencia[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT02EP02.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aliancas Inconvenientes[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT02EP03.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sabotar[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT02EP04.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Dados Cairam [/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT02EP05.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Comando Para Matar[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT02EP06.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Decisoes Finais[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT02EP07.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cabeca A Cabeca [/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/DSBOTT02EP08.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Por Outro Lado[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Uma história de escolhas e sobrevivência que explora o tormento emocional da vida durante a Segunda Guerra Mundial e a realidade brutal de viver em uma guerra sem sentido.</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/R23Hgtd/blacksails-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
