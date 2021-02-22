@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/R23Hgtd/blacksails-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série Black Sails</info>
 <genre>ÉPICOS</genre>
@@ -32,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/vqt63T2/blacksails-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui os episódios da série Black Sails no REDE CANAIS</info>
 <genre>ÉPICOS</genre>  
@@ -42,7 +42,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=rT2Y5jjBNpQ</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/vqt63T2/blacksails-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao Trailer</info>
 <genre>ÉPICOS</genre>  
@@ -76,7 +76,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP09.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 09[/B][/COLOR]</link>
 <link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP10.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 10[/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails - T03 - 2015 - Dublado[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails - T03 - 2016 - Dublado[/B][/COLOR]</link>
 
 <link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP01.mp4$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01[/B][/COLOR]</link>
 <link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP02.mp4$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 02[/B][/COLOR]</link>
@@ -88,7 +88,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP09.mp4$$lsname=[B]T03E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 09[/B][/COLOR]</link>
 <link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP10.mp4$$lsname=[B]T03E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 10[/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails - T04 - 2015 - Dublado[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails - T04 - 2017 - Dublado[/B][/COLOR]</link>
 
 <link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP01.mp4$$lsname=[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01[/B][/COLOR]</link>
 <link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP02.mp4$$lsname=[B]T04E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 02[/B][/COLOR]</link>
@@ -101,14 +101,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP09.mp4$$lsname=[B]T04E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 09[/B][/COLOR]</link>
 <link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP10.mp4$$lsname=[B]T04E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 10[/B][/COLOR]</link>
 
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/vqt63T2/blacksails-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>A série acompanha as aventuras do Capitão Flint e seus homens, 20 anos antes dos acontecimentos do clássico de Robert Louis Stevenson, "A Ilha do Tesouro".</info>
 <genre>ÉPICOS</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <channels></channels>
 <channel>
