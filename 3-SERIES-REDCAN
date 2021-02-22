@@ -22,6 +22,96 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Black Sails</info>
+<genre>ÉPICOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Black Sails no REDE CANAIS</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rT2Y5jjBNpQ</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails - Dublado[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails - T01 - 2014 - Dublado[/B][/COLOR]</link>
+
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 02[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 03[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 04[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 05[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 06[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 07[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 08[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails - T02 - 2015 - Dublado[/B][/COLOR]</link>
+
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP01.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP02.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 02[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP03.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 03[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP04.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 04[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP05.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 05[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP06.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 06[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP07.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 07[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP08.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 08[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP09.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 09[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST02EP10.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 10[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails - T03 - 2015 - Dublado[/B][/COLOR]</link>
+
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP01.mp4$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP02.mp4$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 02[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP03.mp4$$lsname=[B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 03[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP04.mp4$$lsname=[B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 04[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP05.mp4$$lsname=[B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 05[/B][/COLOR]</link><link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP06.mp4$$lsname=[B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 06[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP07.mp4$$lsname=[B]T03E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 07[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP08.mp4$$lsname=[B]T03E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 08[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP09.mp4$$lsname=[B]T03E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 09[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST03EP10.mp4$$lsname=[B]T03E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 10[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Black Sails - T04 - 2015 - Dublado[/B][/COLOR]</link>
+
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP01.mp4$$lsname=[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP02.mp4$$lsname=[B]T04E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 02[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP03.mp4$$lsname=[B]T04E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 03[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP04.mp4$$lsname=[B]T04E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 04[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP05.mp4$$lsname=[B]T04E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 05[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP06.mp4$$lsname=[B]T04E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 06[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP07.mp4$$lsname=[B]T04E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 07[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP08.mp4$$lsname=[B]T04E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 08[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP09.mp4$$lsname=[B]T04E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 09[/B][/COLOR]</link>
+<link>https://drkn4yiarm365.cloudfront.net/RCServer12/ondemand/BLCKSLST04EP10.mp4$$lsname=[B]T04E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 10[/B][/COLOR]</link>
+
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série acompanha as aventuras do Capitão Flint e seus homens, 20 anos antes dos acontecimentos do clássico de Robert Louis Stevenson, "A Ilha do Tesouro".</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ben Hur - A série[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
