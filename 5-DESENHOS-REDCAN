@@ -810,3 +810,90 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zé Colmeia[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Animada Zé Colmeia</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Zé Colmeia[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série animada Zé Colmeia no REDE CANAIS</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zé Colmeia[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=r6L7RevHn-g</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zé Colmeia - 1961 a 1962 - Dublado[/B][/COLOR]</title>
+
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Urso Surfista[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Enfermeiro de Urso[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Campeao do Skate [/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nasce um Astro[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cacando Bufalos[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Ovo de Museu[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ze Colmeia de Bergerac[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Doença do Guarda[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ursos Trocados[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Amiga dos Ursos[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Afinando o Guarda[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mae do Ano [/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Urso Palito[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Grande Shadrak[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cruzeiro Encrencado[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ursos Obedientes[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Volte, Catatau[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP18.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] La Bamba Bob[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Loucura Chocante[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Missil Desorientado[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP21.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Muita Encrenca[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP22.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Ataque do Ninja Redemoinho[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP23.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Urso Lambretista[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP24.mp4$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Melhor Amigo[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP25.mp4$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Predaterminador[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP26.mp4$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vida de Lord[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP27.mp4$$lsname=[B]T01E27[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ze Colmeia das Cavernas[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP28.mp4$$lsname=[B]T01E28[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Pe Grande[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP29.mp4$$lsname=[B]T01E29[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Super Piloto[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP30.mp4$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Diamante Esperanca[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP31.mp4$$lsname=[B]T01E31[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Comida de Urso[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP32.mp4$$lsname=[B]T01E32[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Irmao do Guarda[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP33.mp4$$lsname=[B]T01E33[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Em Busca do Ninja[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP34.mp4$$lsname=[B]T01E34[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Balunaticos[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP35.mp4$$lsname=[B]T01E35[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Bale do Grande Urso[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP36.mp4$$lsname=[B]T01E36[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Astro Ursos[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP37.mp4$$lsname=[B]T01E37[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Duelo de Ursos[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP38.mp4$$lsname=[B]T01E38[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Educacao Dificil[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP39.mp4$$lsname=[B]T01E39[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Que Fome[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP40.mp4$$lsname=[B]T01E40[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Urso Banjo[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP41.mp4$$lsname=[B]T01E41[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Pai do Ze Colmeia[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP42.mp4$$lsname=[B]T01E42[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ze Colmeia e a Mumia[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP43.mp4$$lsname=[B]T01E43[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Encontro Final[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP44.mp4$$lsname=[B]T01E44[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Grande Colmeini[/B][/COLOR]</link>
+<link>https://d1lboa4hnh2we4.cloudfront.net/RCServer08/ondemand/ZECOLMIAEP45.mp4$$lsname=[B]T01E45[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Meu Amigo Mingau[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>The Yogi Bear Show é uma série de desenho animado produzida pela Hanna-Barbera, cujo personagem principal é um urso chamado Zé Colmeia, exibido originalmente entre 1961 e 1962.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
