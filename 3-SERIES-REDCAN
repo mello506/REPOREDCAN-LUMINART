@@ -1612,4 +1612,69 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Walking Dead[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série The Walking Dead</info>
+<genre>SUSPENSE E TERROR</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Walking Dead[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série The Walking Dead no REDE CANAIS</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Walking Dead[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vstmv38u3N4</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Walking Dead - T01 - 2010 - Dublado[/B][/COLOR]</title>
+
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Adeus Longos Dias [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Entranhas [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Diga Isso Aos Sapos [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vatos [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fogo Selvagem [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] TS 19 [/B][/COLOR]</link>
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Walking Dead - T02 - 2011 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP01.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Que Esta a Frente[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP02.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Derramamento de Sangue[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP03.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Salve o Ultimo[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP04.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cherokee Rose[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP05.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Chupacabra[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP06.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Segredos[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP07.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Praticamente Morto[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP08.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nebraska[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP09.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dedo no Gatilho[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP10.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 18 Miles Out[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP11.mp4$$lsname=[B]T02E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Juiz, Juri, Carrasco[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP12.mp4$$lsname=[B]T02E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Melhores Anjos[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer01/videos/TWDT02EP13.mp4$$lsname=[B]T02E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ao Lado do Fogo Moribundo[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Este drama potente e visceral retrata a vida nos Estados Unidos pós-apocalíptico. Um grupo de sobreviventes, liderado pelo policial Rick Grimes, segue viajando em busca de uma nova moradia segura e distante dos mortos-vivos. A pressão para permanecerem vivos e lutarem pela sobrevivência faz com que muitos do grupo sejam submetidos às mais profundas formas de crueldade humana. Rick acaba descobrindo que o tão assustador desespero pela subsistência pode ser ainda mais fatal do que os próprios mortos-vivos que os rodeiam.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
