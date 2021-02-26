@@ -495,6 +495,91 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Roma</info>
+<genre>ÉPICOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Roma[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Roma no REDE CANAIS</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma - T01[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=aWzgX3NJkWQ</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma - T01 - 2005 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Aguia Roubada[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Como Tito Pullo Destruiu A Republica[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Coruja No Arbusto[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roubado De Saturno;[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Ariete Alcancou A Parede[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Egeria[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Farsalia[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cesarion[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Utica[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Triunfo[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Espolios De Guerra[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT01EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Primeiros Dias De Fevereiro[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O ano é 52 antes de cristo. Quatrocentos anos depois da fundação da República, Roma é a menos saudável cidade do mundo, uma metrópole cosmopolita com um milhão de habitantes, epicentro de um império preguiçoso. A República foi fundada pelos princípios da divisão de poder e uma feroz competição individual, nunca permitindo que um único homem tivesse o controle absoluto. Mas agora, estes alicerces estão abalados, desgastados pela corrupção e pelos abusos. Depois de oito anos na guerra, os soldados Lucius Vorenus e Titus Pullo são envolvidos, contra a vontade, em eventos históricos que mudariam o rumo da Roma antiga.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma - T02[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2I1pNIZgvGc</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Roma - T02 - 2007 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT02EP01.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Passagem Do Poder[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT02EP02.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Filho De Plutao[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT02EP03.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Estas Sao As Palavras De Marco Tulio Cicero[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT02EP04.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Tartaruga E A Lebre[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT02EP05.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Herois Da Republica[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT02EP06.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Filipe[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT02EP07.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mascara Da Morte[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT02EP08.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Ficcao Necessaria[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT02EP09.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nem Deus Consegue Parar Um Homem Faminto[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/RomaT02EP10.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sobre Seu Pai[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O bravo Júlio César foi cruelmente assassinado e a agora a guerra civil ameaça destruir a República. Numa disputa de egos, inúmeros sucessores pleiteiam o cargo deixado por César. É então que Marco Antônio tenta consolidar seu poder se aliando a Atia. O conspirador Brutus tenta ganhar a simpatia do povo, que antes o condenou como assassino. Enquanto isso, Tito Pullo se esforça para tirar seu amigo, Lúcio Voreno, da escuridão que envolveu sua vida após uma tragédia pessoal. </info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Maluco no Pedaço[/B][/COLOR]</name>
 <thumbnail>http://oyster.ignimgs.com/wordpress/stg.ign.com/2020/08/fresh-prince.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
