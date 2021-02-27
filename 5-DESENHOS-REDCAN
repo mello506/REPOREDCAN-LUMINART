@@ -1166,4 +1166,60 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Família Addams - Clássica[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série animada A Família Addams - Clássica</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Família Addams - Clássica[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série animada A Família Addams - Clássica no REDE CANAIS</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Família Addams - Clássica[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7KkgAQdWgZM</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Família Addams - Clássica - 1973 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Familia Addams em Nova York [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Deixado na Mao [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Pula-Pula [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Acampante Mais Veloz do Oeste [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Historia do Mardi Gras [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Siga Aquela Bengala de Pao [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aloe e Tudo Mais [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Astronautas Relutantes [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Corrida do Grande Balao [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Historia de um Circo [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cidade Fantasma [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Familia Addams no Mar [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Historia de Voodoo [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Historia do Roller Derby [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Familia Addams no Oeste [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer06/ondemand/AFMLADMS1973EP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Familia Addams no Derby de Kentucky [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A Família Addams é uma série animada inspirada nos personagens criados pelo cartunista Charles Addams. A primeira temporada estreou em 1973, nos EUA. A Família Addams é formada por Gomez, Mortícia, Wandinha e Feioso</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
