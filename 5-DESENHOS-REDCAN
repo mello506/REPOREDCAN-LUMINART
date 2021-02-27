@@ -951,6 +951,70 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Bacamarte e Chumbinho[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série animada Bacamarte e Chumbinho</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Bacamarte e Chumbinho[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série animada Bacamarte e Chumbinho no REDE CANAIS</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Bacamarte e Chumbinho[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=QmYmVlRLr98</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Bacamarte e Chumbinho - 1964 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Comendo Chumbo [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Que Magica Besta [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Corneta Magica [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Instinto Selvagem [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Leao Esta a Solta [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vamos Brincar de Guerra? [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vendo, Mas Nao Acreditando [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Incentivo [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Faca de Dois Gumes [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Festival Dental  [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dia do Pugilato [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Pula-pula [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Agora e o Urso [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lenda de Bat Raterson [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Super Drooper [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Pilula da Forza [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vida de Rico [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP18.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sociedade Protetora dos Ratos [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fantasma de Araque [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Primo Forte [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP21.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sua Majestade o Rato [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP22.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Heranca Herdada [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP23.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Medico e o Monstro [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP24.mp4$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Cozinheiro sem Sorte [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Punkin' Puss & Mushmouse é desenho produzido pela Hanna-Barbera na década de 1960 de gato caçando rato com espingardas, ambientado no campo e mostrando um gato e um rato meio caipiras! Bacamarte é um gato caipira que vive em uma disputa sem fim com o interiorano roedor Chumbinho</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
