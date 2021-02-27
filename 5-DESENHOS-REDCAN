@@ -1016,3 +1016,62 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Formiga e o Tamanduá[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série animada A Formiga e o Tamanduá</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Formiga e o Tamanduá[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série animada A Formiga e o Tamanduá no REDE CANAIS</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Formiga e o Tamanduá[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pY7cSz0T5PI</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Formiga e o Tamanduá - 1969 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/AFORMGEOTMDAEP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Acompanhe as confusões de um tamanduá azul que sempre persegue uma formiga vermelha.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
