@@ -1894,3 +1894,72 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Arquivo Morto[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/1vtd7sB/coldcase-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Arquivo Morto</info>
+<genre>SUSPENSE E TERROR</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Arquivo Morto[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/1vtd7sB/coldcase-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Arquivo Morto no REDE CANAIS</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Arquivo Morto[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DX5zbPP6YNo</link>
+<thumbnail>https://i.ibb.co/1vtd7sB/coldcase-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Arquivo Morto - 2003 - Dublado[/B][/COLOR]</title>
+
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Crime Esquecido [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Bomba [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ele Voltou [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Religioso [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Redencao [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Amor e Odio [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tempo de Odiar [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Voo [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Querida Sherry [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Carona [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Arrogancia [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Color [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Carta [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Menino da Caixa [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inferno na Discoteca [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Voluntarios [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Alma Perdida de Herman Lester [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP18.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Decisao de Ano Novo [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Voto do Passado [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ganancia [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP21.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Instintos Maternais [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP22.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Plano [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP23.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Namorados [/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/1vtd7sB/coldcase-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A obstinada e competente detetive Lilly Rush trabalha em casos arquivados no Departamento de Polícia da Filadélfia, retomando investigações de assassinatos não solucionados que ocorreram anos ou décadas antes.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
