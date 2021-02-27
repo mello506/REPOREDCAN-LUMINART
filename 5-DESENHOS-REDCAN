@@ -894,3 +894,65 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dinamite, o Bionicão[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série animada Dinamite, o Bionicão</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Dinamite, o Bionicão[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série animada Dinamite, o Bionicão no REDE CANAIS</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dinamite, o Bionicão[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HK4VCQTgvr0</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dinamite, o Bionicão - 1976 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Rastejador [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] E Agora Meu Chapa? [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Grande Assalto do Trem [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Confusao Total [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Ladrao do Porto [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sinfonia Sinistra [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Não Pertube o Homem [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Caso da Fabrica [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Rainha Vesta [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Magico de Ooze [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tin Kong [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Cabeca Dura [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Falcao Azul Encontra Vulture [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Liga da Justica da America [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mais Leve que o Ar [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/DNMTOBONCEP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Lucros do Profeta [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Quando a ciência inventa um doberman robô, mas alguém cruza um fio errado no cérebro computadorizado dele, o super-herói Falcão Azul acaba por ter um parceiro canino mecânico com grandes poderes, mas sem uma mente à altura.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
+
