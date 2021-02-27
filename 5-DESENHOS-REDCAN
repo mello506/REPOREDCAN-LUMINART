@@ -1075,3 +1075,96 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Família Addams: A Série Animada[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série animada A Família Addams: A Série Animada</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Família Addams: A Série Animada[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série animada A Família Addams: A Série Animada no REDE CANAIS</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Família Addams: A Série Animada[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0r8lu1Jku9g</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Família Addams: A Série Animada - T01 - 1992 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Felizchico do Tio Chico [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Hotel Diferente [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Dia Em Que Gomes Falhou [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Namorada do Tropeso  [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Feiosos Pra Caramba [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cuidado Com O Maozinha [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] N.J. Addams [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nasce um Astro [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Asfixie e Apunhale [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Diario do Tio Chico [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sir Feioso [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Homem Chico [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Arte para a Arte [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Fantasma Sem Cabeza [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] C.T.V  [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Primo Itt's Ja Era [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Se Esconde Que o Tropeso Acha [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP18.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Anzol, Linha e Fedor [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Maozinha Espadachim [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Família Addams na Escola [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP21.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Grande Maozinha [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP22.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Chapeuzinho Vermelho Ma [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP23.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Metamorfose Irma [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Os Addams ganharam novos vizinhos, a Família Normanmeyer, que vive tentando expulsar os seres bizonhos que a família realmente é, mas vez por outra ficam tentando passar a perna no Gomez pra ele investir sua grana de maneira indevida e assim o Norman ficar riquinho, mas como sempre acontece nas histórias, os planos dão sempre errado e os Addams sempre acabam deixando seus vizinhos com cagaço em todos os episódios com medo de serem devorados pelos seres monstruosos criados por eles como bichinhos de estimação.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Família Addams: A Série Animada - T02 - 1992 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP01.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Pintura [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer12/ondemand/AFMLADMS1992T02EP02.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP03.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP04.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP05.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP06.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP07.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP08.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP09.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP10.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP11.mp4$$lsname=[B]T02E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP12.mp4$$lsname=[B]T02E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP13.mp4$$lsname=[B]T02E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP14.mp4$$lsname=[B]T02E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP15.mp4$$lsname=[B]T02E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/AFMLADMS1992T02EP16.mp4$$lsname=[B]T02E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01 [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Os Addams ganharam novos vizinhos, a Família Normanmeyer, que vive tentando expulsar os seres bizonhos que a família realmente é, mas vez por outra ficam tentando passar a perna no Gomez pra ele investir sua grana de maneira indevida e assim o Norman ficar riquinho, mas como sempre acontece nas histórias, os planos dão sempre errado e os Addams sempre acabam deixando seus vizinhos com cagaço em todos os episódios com medo de serem devorados pelos seres monstruosos criados por eles como bichinhos de estimação.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
