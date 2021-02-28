@@ -34,6 +34,64 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Apuros de Penélope Charmosa[/B][/COLOR]</name>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYyR4s6rwI-UwkYkL77uYrlLYZdVDxJAhBCHAQFIQPuCZB9LEP</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série animada Os Apuros de Penélope Charmosa</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Os Apuros de Penélope Charmosa[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYyR4s6rwI-UwkYkL77uYrlLYZdVDxJAhBCHAQFIQPuCZB9LEP</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série animada Os Apuros de Penélope Charmosa no REDE CANAIS</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Apuros de Penélope Charmosa[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WF8g_Q_s3tw</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYyR4s6rwI-UwkYkL77uYrlLYZdVDxJAhBCHAQFIQPuCZB9LEP</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Apuros de Penélope Charmosa - 1969 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Problemas na Selva[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A TerrIvel Armadilha do Bondinho[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Armadilha na Calzada[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perigo no Oeste Selvagem[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Calamidade na Feira[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Trama Traisoeira do Cinema[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perigo no Deserto da Arabia[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Armadilha Diabolica da Loja de Departamentos[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corrida Apavorante[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perigo no Polo Norte[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Madeira Traisoeira[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Armadilha na Corrida[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perigo em Bagda[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ma Sorte no Biscoito da Sorte Chines[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Grande Armadilha[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jogo do Perigo[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer09/ondemand/OPRSDPNPLEP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Traisao em Londres[/B][/COLOR]</link>
+
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYyR4s6rwI-UwkYkL77uYrlLYZdVDxJAhBCHAQFIQPuCZB9LEP</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A linda Penélope Charmosa é herdeira de uma vasta fortuna e vive sendo perseguida pelo vilão Tião Gavião durante suas aventuras ao redor do mundo. Ela conta com a Quadrilha da Morte para protegê-la, mas, quase sempre, acaba se salvando sozinha.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] As Aventuras de Tintim[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
