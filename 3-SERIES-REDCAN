@@ -1925,7 +1925,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Arquivo Morto - 2003 - Dublado[/B][/COLOR]</title>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Arquivo Morto - 2003 - Dublado[/B][/COLOR]</title>
 
 
 <link>https://d2633fi2hct4s1.cloudfront.net/RCServer14/ondemand/ARQVMTOT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Crime Esquecido [/B][/COLOR]</link>
@@ -1960,6 +1960,69 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Desaparecidos[/B][/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj-jjmNCHWRLUdwu-qnUCcBhftbTDZi96uH00W28OPlNMj-zDn</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Desaparecidos</info>
+<genre>CRIME E DRAMA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Desaparecidos[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj-jjmNCHWRLUdwu-qnUCcBhftbTDZi96uH00W28OPlNMj-zDn</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Desaparecidos no REDE CANAIS</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Desaparecidos[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fljyzg9VW6Y</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj-jjmNCHWRLUdwu-qnUCcBhftbTDZi96uH00W28OPlNMj-zDn</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>CRIME E DRAMA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Desaparecidos - 2002 - Dublado[/B][/COLOR]</title>
+
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 01[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 02[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 03[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 04[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 05[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 06[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 07[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 08[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 09[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 10[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 11[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 12[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 13[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 14[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 15[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 16[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 17[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP18.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 18[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 19[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 20[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP21.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 21[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP22.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 22[/B][/COLOR]</link>
+<link>https://d2633fi2hct4s1.cloudfront.net/RCServer04/ondemand/DSPRCDST01EP23.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - Episodio -> 23[/B][/COLOR]</link>
+
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj-jjmNCHWRLUdwu-qnUCcBhftbTDZi96uH00W28OPlNMj-zDn</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um esquadrão especial do FBI investiga casos de pessoas desaparecidas. Aplicando avançadas técnicas da Psicologia, essa força especial pode estabelecer se a vítima foi assassinada, fugiu, cometeu suicídio ou foi sequestrada.</info>
+<genre>CRIME E DRAMA</genre>    
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
