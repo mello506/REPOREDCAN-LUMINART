@@ -27,19 +27,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - DATA - Dublado[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - Dublado[/B][/COLOR]</link>
 
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - Dublado[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - Dublado[/B][/COLOR]</link>
 
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - Dublado[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - Dublado[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - 720 - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - Dublado[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] NomedoFilme - 1080 - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - Dublado[/B][/B][/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
