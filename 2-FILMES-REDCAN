@@ -60,15 +60,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/0c1J23W/sub-cat-picos.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DE ÉPICOS DO REDE CANAIS ESTÃO AQUI</info>
 <genre>ÉPICOS</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-CONTEUDO
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Coração Valente - 1995 - Dublado[/B][/COLOR]</title>
 
+<link>plugin://plugin.video.youtube/play/?video_id=1NJO0jxBtMo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corasao Valente[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WDKKePtfmmaOuN3Qb2k92oKXIdN2Y8E3/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corasao Valente - Dublado[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/67269.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corasao Valente - Dublado[/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/CRCAOVLNTE.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corasao Valente - Dublado[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WFFLYPRSQIASVEM24BHSFLJVTEXRKPWD&dn=Coracao%20Valente%20(1995)%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corasao Valente - Dublado[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6389A9699BE576724DDFA479C90FE5A2CAF7685&dn=Cora%c3%a7%c3%a3o%20Valente%20-%20Edi%c3%a7%c3%a3o%2020%20Anos%20%281995%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20DeG&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corasao Valente - Dublado[/B][/COLOR]</link>
+
+<thumbnail>http://4.bp.blogspot.com/_kd8guQqkRLw/SbUl49TFdHI/AAAAAAAACMA/v-3ykpuh1-U/s320/braveheart.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A história do herói escocês do século 13,  William Wallace, que lidera seus conterrâneos contra o monarca inglês Edward I, após ter sofrido uma tragédia pessoal causada pelos soldados ingleses. O exército amador de Wallace foi maior que o exército da Inglaterra.</info>
+<genre>ÉPICO</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
