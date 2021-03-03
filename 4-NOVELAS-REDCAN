@@ -1623,3 +1623,74 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi[/B][/COLOR]</name>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIoKwhoZh07q3Eb2dWWZA-QhOB640_0EjZF-51C9frQ3L7G9eT</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Novela Rei Davi</info>
+<genre>NOVELAS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Rei Davi[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIoKwhoZh07q3Eb2dWWZA-QhOB640_0EjZF-51C9frQ3L7G9eT</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da novela Rei Davi no REDE CANAIS</info>
+<genre>NOVELAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIoKwhoZh07q3Eb2dWWZA-QhOB640_0EjZF-51C9frQ3L7G9eT</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>NOVELAS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi - 2012 - Dublado[/B][/COLOR]</title>
+
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP18.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP21.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP22.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP23.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP24.mp4$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP25.mp4$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP26.mp4$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP27.mp4$$lsname=[B]T01E27[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP28.mp4$$lsname=[B]T01E28[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP29.mp4$$lsname=[B]T01E29[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP30.mp4$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Rei Davi [/B][/COLOR]</link>
+
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIoKwhoZh07q3Eb2dWWZA-QhOB640_0EjZF-51C9frQ3L7G9eT</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Inspirada em uma das mais lindas e conturbadoras passagens da Bíblia, a minissérie retrata a vida de um homem polêmico, um herói valente e destemido, senhor da guerra, libertador de seu povo e, ao mesmo tempo, um artista generoso e sensível, poeta, músico e amigo de Deus. Uma história de fé e coragem, que mostra como um humilde pastor de ovelhas derrotou o temível gigante Golias e transformou as doze tribos de Israel em uma nação forte e respeitada. É também a história de um amor proibido e de suas consequências devastadoras.</info>
+<genre>NOVELAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
