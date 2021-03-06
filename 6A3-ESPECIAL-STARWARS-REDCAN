@@ -326,6 +326,53 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Mandaloriano - T01 - 2019 - Legendado [/B][/COLOR]</title>
 
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]720 - EP01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]1080 - EP01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]720 - EP02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]1080 - EP02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]720 - EP03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]1080 - EP03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]720 - EP04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]1080 - EP04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]720 - EP05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]1080 - EP05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]720 - EP06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]1080 - EP06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]720 - EP07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]1080 - EP07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]720 - EP08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=
+MAGNETLINK$$lsname=[B]1080 - EP08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoEpisodio[/B][/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -374,13 +421,54 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Mandaloriano - T01 - 2019 - Dublado [/B][/COLOR]</title>
 
+<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Mandaloriano[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Crianca[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Pecado[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Santuario[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Pistoleiro[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Prisioneiro[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Acerto de Contas[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Redencao[/COLOR]</link>
 
+<thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
+<genre>FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Mandaloriano - T01 - 2019 - Legendado [/B][/COLOR]</title>
 
+<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRSS01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Mandaloriano[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRSS01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Crianca[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRSS01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Pecado[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRSS01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Santuario[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRSS01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Pistoleiro[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRSS01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Prisioneiro[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRSS01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Acerto de Contas[/COLOR]</link>
+<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRSS01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Redencao[/COLOR]</link>
 
+<thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
+<genre>FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Mandaloriano - T02 [/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assiata aqui os episódios da segunda temporada da série O Mandaloriano </info>
+<genre>FANTASIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Mandaloriano - T02 - 2020 - Dublado [/B][/COLOR]</title>
@@ -457,43 +545,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Mandaloriano - T01 - 2019 - Dublado [/B][/COLOR]</title>
-
-<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Mandaloriano[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Crianca[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Pecado[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Santuario[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Pistoleiro[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Prisioneiro[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Acerto de Contas[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Redencao[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
-<genre>FANTASIA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Mandaloriano - T01 - 2019 - Legendado [/B][/COLOR]</title>
-
-<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRSS01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Mandaloriano[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRSS01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Crianca[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRSS01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Pecado[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRSS01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Santuario[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRSS01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Pistoleiro[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRSS01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Prisioneiro[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRSS01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Acerto de Contas[/COLOR]</link>
-<link>https://d251k804plx2ra.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRSS01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Redencao[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/qRF5LtL/mandaloriano-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
-<genre>FANTASIA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Mandaloriano - T02 - 2020 - Dublado [/B][/COLOR]</title>
@@ -533,6 +584,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
 <channels></channels>
