@@ -450,74 +450,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/DVDmNhB/dasboot-pasta.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Série Das Boot</info>
-<genre>GUERRA</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Das Boot[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios da série Das Boot no REDE CANAIS</info>
-<genre>GUERRA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=yndRSqA69Kc</link>
-<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao Trailer</info>
-<genre>GUERRA</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot - T01 - 2020 - Dublado[/B][/COLOR]</title>
-
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Novos Caminhos[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Missoes Secretas[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vitimas[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Duvidas [/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fidelidade[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nick Of Time[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Maldito[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avaliacao[/B][/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Uma história de escolhas e sobrevivência que explora o tormento emocional da vida durante a Segunda Guerra Mundial e a realidade brutal de viver em uma guerra sem sentido.</info>
-<genre>GUERRA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot - T02 - 2020 - Dublado[/B][/COLOR]</title>
-
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP01.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Estrategias De Sobrevivencia[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP02.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aliancas Inconvenientes[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP03.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sabotar[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP04.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Dados Cairam [/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP05.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Comando Para Matar[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP06.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Decisoes Finais[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP07.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cabeca A Cabeca [/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP08.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Por Outro Lado[/B][/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Uma história de escolhas e sobrevivência que explora o tormento emocional da vida durante a Segunda Guerra Mundial e a realidade brutal de viver em uma guerra sem sentido.</info>
-<genre>GUERRA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/R23Hgtd/blacksails-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -911,6 +843,193 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/DVDmNhB/dasboot-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Das Boot</info>
+<genre>GUERRA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Das Boot[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Das Boot no REDE CANAIS</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yndRSqA69Kc</link>
+<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot - T01 - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Novos Caminhos[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Missoes Secretas[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vitimas[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Duvidas [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fidelidade[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Nick Of Time[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Maldito[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avaliacao[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Uma história de escolhas e sobrevivência que explora o tormento emocional da vida durante a Segunda Guerra Mundial e a realidade brutal de viver em uma guerra sem sentido.</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot - T02 - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP01.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Estrategias De Sobrevivencia[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP02.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aliancas Inconvenientes[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP03.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sabotar[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP04.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Dados Cairam [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP05.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Comando Para Matar[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP06.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Decisoes Finais[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP07.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cabeca A Cabeca [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DSBOTT02EP08.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Por Outro Lado[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/0yDvWtY/dasboot-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Uma história de escolhas e sobrevivência que explora o tormento emocional da vida durante a Segunda Guerra Mundial e a realidade brutal de viver em uma guerra sem sentido.</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Band of Brothers[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/v3v9dQN/banbrother-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Band of Brothers</info>
+<genre>GUERRA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Band of Brothers[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Escolha o servidor para assistir a série Band of Brothers</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Band of Brothers [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1wlYPlwjGOY</link>
+<thumbnail>https://i.ibb.co/wcfgCds/bandofbrothers-fan.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Band of Brothers - 2001 - Dublado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Currahee[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dia dos Dias[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Carentan[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Substitutos[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Encruzilhada[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Bastogne[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Ponto de Ruptura[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Ultima Patrulha[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Porque nos Lutamos[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Pontos[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/wcfgCds/bandofbrothers-fan.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
+<genre>GUERRA</genre>   
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Band of Brothers - 2001 - Legendado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/9c0558e8.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Currahee[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/84d064e9.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dia dos Dias[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/c4f74cc6.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Carentan[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/7c371e37.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Substitutos[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/1188a877.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Encruzilhada[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/4765eff6.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Bastogne[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/1f0de7f9.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Ponto de Ruptura[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/7c288d82.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Ultima Patrulha[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/638174d2.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Porque nos Lutamos[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/c082bee1.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Pontos[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/wcfgCds/bandofbrothers-fan.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
+<genre>GUERRA</genre>   
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Godless[/B][/COLOR]</name>
+<thumbnail>https://pbs.twimg.com/media/DkYzbr2XcAE-P3v.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Godless</info>
+<genre>WESTERN</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Godless[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://pbs.twimg.com/media/DkYzbr2XcAE-P3v.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Godless no REDE CANAIS</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Godless[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=CrlZCRncCwA</link>
+<thumbnail>https://pbs.twimg.com/media/DkYzbr2XcAE-P3v.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>WESTERN</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Godless - 2017 - Dublado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aconteceu em Creede[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mulheres de La Belle[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Sabedoria do Cavalo[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mantenha Distancia[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tiro Certeiro[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Prezado Roy[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Boas-vindas[/B][/COLOR]</link>
+
+<thumbnail>https://pbs.twimg.com/media/DkYzbr2XcAE-P3v.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>1884, um jovem fora da lei fugindo de seu mentor vingativo acaba em uma pequena cidade do Novo México habitada quase inteiramente por mulheres.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -1155,6 +1274,77 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</name>
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção Dirk Gently's Holistic Detective Agency</info>
+<genre>COMÉDIA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uZWQnMlrhcI</link>
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>COMÉDIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da  série Dirk Gently's Holistic Detective Agency no REDE CANAIS</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency - T01 - 2016 - Dublado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Horizontes [/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Achados E Perdidos[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Entusiastas[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Watkin[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Muito Ereto[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Consertando Tudo[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sua Alma, Sua Arma[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dois Caras Normais[/COLOR]</link>
+
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Dirk Gently's Holistic Detective Agency é uma serie original da BBC America em parceria com a Netflix criada por Max Landis. Baseada nos livros de mesmo nome de Douglas Adams, é protagonizada por Samuel Barnett e Elijah Wood</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency - T02 - 2016 - Dublado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Coelho Espacial[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Fas De Circulos Molhados[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dois Dedos Quebrados[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Casa Dentro da Casa[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Formas E Cores[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Poder Feminino[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Isso Nao e Miami[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Baixinha, De Cabelo Preto[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Problema e Serio[/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Belo Casaco[/COLOR]</link>
+
+<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Dirk Gently's Holistic Detective Agency é uma serie original da BBC America em parceria com a Netflix criada por Max Landis. Baseada nos livros de mesmo nome de Douglas Adams, é protagonizada por Samuel Barnett e Elijah Wood</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -1471,149 +1661,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Um jovem médico começa seu primeiro dia de trabalho sob a supervisão de um brilhante e frio residente, mas o dia-a-dia no hospital pode ser mais difícil do que ele imagina. Entre salvamentos e perdas, o novato percebe que suas expectativas sempre são frustradas. </info>
 <genre>CRIME E DRAMA</genre>  
 </item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Band of Brothers[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/v3v9dQN/banbrother-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Band of Brothers</info>
-<genre>GUERRA</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Band of Brothers[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Escolha o servidor para assistir a série Band of Brothers</info>
-<genre>GUERRA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Band of Brothers [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=1wlYPlwjGOY</link>
-<thumbnail>https://i.ibb.co/wcfgCds/bandofbrothers-fan.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>ASSISTA AO TRAILER</info>
-<genre>GUERRA</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Band of Brothers - 2001 - Dublado[/B][/COLOR]</title>
-
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Currahee[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dia dos Dias[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Carentan[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Substitutos[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Encruzilhada[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Bastogne[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Ponto de Ruptura[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Ultima Patrulha[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Porque nos Lutamos[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer02/ondemand/BANOBRTHEP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Pontos[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/wcfgCds/bandofbrothers-fan.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
-<genre>GUERRA</genre>   
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Band of Brothers - 2001 - Legendado[/B][/COLOR]</title>
-
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/9c0558e8.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Currahee[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/84d064e9.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dia dos Dias[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/c4f74cc6.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Carentan[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/7c371e37.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Substitutos[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/1188a877.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Encruzilhada[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/4765eff6.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Bastogne[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/1f0de7f9.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Ponto de Ruptura[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/7c288d82.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Ultima Patrulha[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/638174d2.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Porque nos Lutamos[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer01/videos/c082bee1.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Pontos[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/wcfgCds/bandofbrothers-fan.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info> lendária Companhia Easy, formada por soldados que se distinguem pela coragem, sacrifício, camaradagem e heroísmo na defesa de seus ideais. Em dez episódios, acompanhamos desde o treinamento pesado dos militares, que começa em 1942, a sua chegada de pára-quedas na França no Dia-D, em 1944, as suas ofensivas sempre na linha de frente do batalhão, até a tomada, em 1945, do refúgio de Hitler.</info>
-<genre>GUERRA</genre>   
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</name>
-<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Seção Dirk Gently's Holistic Detective Agency</info>
-<genre>COMÉDIA</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=uZWQnMlrhcI</link>
-<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao trailer</info>
-<genre>COMÉDIA</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Dirk Gently's Holistic Detective Agency[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios da  série Dirk Gently's Holistic Detective Agency no REDE CANAIS</info>
-<genre>COMÉDIA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency - T01 - 2016 - Dublado[/B][/COLOR]</title>
-
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Horizontes [/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Achados E Perdidos[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Entusiastas[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Watkin[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Muito Ereto[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Consertando Tudo[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sua Alma, Sua Arma[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dois Caras Normais[/COLOR]</link>
-
-<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Dirk Gently's Holistic Detective Agency é uma serie original da BBC America em parceria com a Netflix criada por Max Landis. Baseada nos livros de mesmo nome de Douglas Adams, é protagonizada por Samuel Barnett e Elijah Wood</info>
-<genre>COMÉDIA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dirk Gently's Holistic Detective Agency - T02 - 2016 - Dublado[/B][/COLOR]</title>
-
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Coelho Espacial[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Fas De Circulos Molhados[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dois Dedos Quebrados[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Casa Dentro da Casa[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Formas E Cores[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Poder Feminino[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Isso Nao e Miami[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Baixinha, De Cabelo Preto[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Problema e Serio[/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/DRKGNTLSHLTCDTVAGCYT02EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Belo Casaco[/COLOR]</link>
-
-<thumbnail>https://i.pinimg.com/564x/8b/13/e9/8b13e9276472149968982bc1ab2997b7.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Dirk Gently's Holistic Detective Agency é uma serie original da BBC America em parceria com a Netflix criada por Max Landis. Baseada nos livros de mesmo nome de Douglas Adams, é protagonizada por Samuel Barnett e Elijah Wood</info>
-<genre>COMÉDIA</genre>  
-</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -2407,48 +2454,83 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Godless[/B][/COLOR]</name>
-<thumbnail>https://pbs.twimg.com/media/DkYzbr2XcAE-P3v.jpg</thumbnail>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] C.S.I.: Cyber[/B][/COLOR]</name>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/09/07/14/44/068509.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Série Godless</info>
-<genre>WESTERN</genre>
+<info>Série C.S.I.: Cyber</info>
+<genre>CRIME E DRAMA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Godless[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] C.S.I.: Cyber[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://pbs.twimg.com/media/DkYzbr2XcAE-P3v.jpg</thumbnail>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/09/07/14/44/068509.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios da série Godless no REDE CANAIS</info>
-<genre>WESTERN</genre>  
+<info>Assista aqui os episódios da série C.S.I.: Cyber no REDE CANAIS</info>
+<genre>CRIME E DRAMA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Godless[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=CrlZCRncCwA</link>
-<thumbnail>https://pbs.twimg.com/media/DkYzbr2XcAE-P3v.jpg</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] C.S.I.: Cyber[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=I5ASy-m0iC0</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/09/07/14/44/068509.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao Trailer</info>
-<genre>WESTERN</genre>  
+<genre>CRIME E DRAMA</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Godless - 2017 - Dublado[/B][/COLOR]</title>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] C.S.I.: Cyber - TO1 - 2015 - Dublado[/B][/COLOR]</title>
 
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aconteceu em Creede[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Mulheres de La Belle[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Sabedoria do Cavalo[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Mantenha Distancia[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tiro Certeiro[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Prezado Roy[/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer12/ondemand/GODLST01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Boas-vindas[/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sequestro 2.0 [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Comando Quebra [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Assassinato em Curso [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Codigo de Fogo [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Visualizando o Perigo [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Gemeo do Mal  [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] URL, Interrompida [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Selfie 2.0 [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Pouso Forzado [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Escolha seu Veneno [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fantasma na Maquina [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Bit por Bit [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT01EP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Segredos de Familia [/B][/COLOR]</link>
 
-<thumbnail>https://pbs.twimg.com/media/DkYzbr2XcAE-P3v.jpg</thumbnail>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/09/07/14/44/068509.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>1884, um jovem fora da lei fugindo de seu mentor vingativo acaba em uma pequena cidade do Novo México habitada quase inteiramente por mulheres.</info>
-<genre>WESTERN</genre>  
+<info>A Divisão de Delitos Cibernéticos investiga crimes que começam online e terminam na vida real.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] C.S.I.: Cyber - TO2 - 2016 - Dublado[/B][/COLOR]</title>
+		
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP01.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Why-Fi [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP02.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Eu Te Curto [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP03.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Olhos Castanhos, Olhos Azuis [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP04.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Bruxa Vermelha [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP05.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Hacker Pronto Socorro [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP06.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Partida Em 6 Segundos [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP07.mp4$$lsname=[B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Memoria Corrompida [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP08.mp4$$lsname=[B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Python [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP09.mp4$$lsname=[B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Testemunha [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP10.mp4$$lsname=[B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tons de Cinza [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP11.mp4$$lsname=[B]T02E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 404: Voo Nao Encontrado [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP12.mp4$$lsname=[B]T02E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tornando-se Viral [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP13.mp4$$lsname=[B]T02E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Mortos Vivos [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP14.mp4$$lsname=[B]T02E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ajuste e Corra [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP15.mp4$$lsname=[B]T02E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Vinganza de Python [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP16.mp4$$lsname=[B]T02E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 5 Pecados Mortais [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP17.mp4$$lsname=[B]T02E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Flash Squad [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer11/ondemand/CSICBRT02EP18.mp4$$lsname=[B]T02E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Legado [/B][/COLOR]</link>
+
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/09/07/14/44/068509.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A Divisão de Delitos Cibernéticos investiga crimes que começam online e terminam na vida real.</info>
+<genre>CRIME E DRAMA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
