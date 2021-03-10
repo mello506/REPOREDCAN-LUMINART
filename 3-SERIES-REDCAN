@@ -404,6 +404,57 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Camelot[/B][/COLOR]</name>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/79/21/51/19681568.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Camelot</info>
+<genre>ÉPICOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Camelot[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/79/21/51/19681568.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Camelot no REDE CANAIS</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Camelot[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vYZImCVvbVU</link>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/79/21/51/19681568.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Camelot - TO1 - 2011 - Dublado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/CMLTS01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Baile [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/CMLTS01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Espada e a Coroa [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/CMLTS01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Guinevere [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/CMLTS01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dama do Lago [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/CMLTS01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Justiza [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/CMLTS01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tres Viagens [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/CMLTS01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Longa Noite [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/CMLTS01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Igraine [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/CMLTS01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Batalha da Passagem de Bardon [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/CMLTS01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Computo [/B][/COLOR]</link>
+		
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/79/21/51/19681568.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Merlin coloca o jovem Arthur, filho desconhecido de Uther e seu herdeiro, no poder. Mas a meia-irmã de Arthur, a ambiciosa Morgan, está determinada a lutar contra ele até o amargo fim, convocando as forças sobrenaturais para reivindicar a coroa.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+		
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Black Sails[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/R23Hgtd/blacksails-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
