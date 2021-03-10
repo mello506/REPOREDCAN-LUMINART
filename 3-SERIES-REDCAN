@@ -310,52 +310,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exército Esquecido[/B][/COLOR]</name>
-<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Série O Exército Esquecido</info>
-<genre>GUERRA</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Exército Esquecido[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios da série O Exército Esquecido no REDE CANAIS</info>
-<genre>GUERRA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exército Esquecido[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=NG6PUj-TUfY</link>
-<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao Trailer</info>
-<genre>GUERRA</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exército Esquecido - 2020 - Dublado[/B][/COLOR]</title>
-
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Shonan [/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] POW [/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Challo Dilli  [/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Harakiri [/B][/COLOR]</link>
-<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Maya [/B][/COLOR]</link>
-
-<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>
-<genre>GUERRA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lupin[/B][/COLOR]</name>
 <thumbnail>https://cosmonerd.com.br//uploads/2021/01/cosmonerd-serie-lupin-netflix-parte1-capa-miniatura.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -839,6 +793,52 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>O bravo Júlio César foi cruelmente assassinado e a agora a guerra civil ameaça destruir a República. Numa disputa de egos, inúmeros sucessores pleiteiam o cargo deixado por César. É então que Marco Antônio tenta consolidar seu poder se aliando a Atia. O conspirador Brutus tenta ganhar a simpatia do povo, que antes o condenou como assassino. Enquanto isso, Tito Pullo se esforça para tirar seu amigo, Lúcio Voreno, da escuridão que envolveu sua vida após uma tragédia pessoal. </info>
 <genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exército Esquecido[/B][/COLOR]</name>
+<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série O Exército Esquecido</info>
+<genre>GUERRA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Exército Esquecido[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série O Exército Esquecido no REDE CANAIS</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exército Esquecido[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NG6PUj-TUfY</link>
+<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exército Esquecido - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Shonan [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] POW [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Challo Dilli  [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Harakiri [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/OEXRCTESQCDT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Maya [/B][/COLOR]</link>
+
+<thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O Exército Esquecido é a dinâmica história do Tenente Sodhi e seu grupo de intrépidos homens e mulheres que lutaram uma batalha heroica pela independência da Índia como parte do Exército Nacional Indiano, formado a partir da derrota britânica em Singapura durante a Segunda Guerra Mundial e liderado pelo carismático e indomável líder indiano Netaji Subhash Chandra Bose. </info>
+<genre>GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
