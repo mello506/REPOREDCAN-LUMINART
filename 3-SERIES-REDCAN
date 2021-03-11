@@ -2963,3 +2963,99 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Expresso do Amanhã[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/3TNVgKr/expamnha-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Expresso do Amanhã</info>
+<genre>FICÇÃO E FANTASIA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA O FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Expresso do Amanhã[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o Filme Expresso do Amanhã no REDE CANAIS</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Expresso do Amanhã[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=x4lzz3Fvsc4</link>
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Expresso do Amanhã - 2013 - Dublado[/B][/COLOR]</title>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCFServer5/ondemand/EXPRSODOAMNHA.mp4</link>
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Os únicos sobreviventes de uma fracassada tentativa de conter o aquecimento global são obrigados a viver em um trem separados em vagões que determinam sua condição social.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA A SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Expresso do Amanhã[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Expresso do Amanhã no REDE CANAIS</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Expresso do Amanhã[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zstihByJe9I</link>
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Expresso do Amanhã - 2020 - Dublado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/EXPRSODOAMNHAT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Primeiro, O Clima Mudou [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/EXPRSODOAMNHAT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Preparem-se! [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/EXPRSODOAMNHAT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Acesso e Poder [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/EXPRSODOAMNHAT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sem Seu Criador [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/EXPRSODOAMNHAT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Justiza Nao Embarcou [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/EXPRSODOAMNHAT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] De Onde Menos se Espera... [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/EXPRSODOAMNHAT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Universo e Indiferente [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/EXPRSODOAMNHAT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Revoluzoes [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/EXPRSODOAMNHAT01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Trem Exigia Sangue [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer14/ondemand/EXPRSODOAMNHAT01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 994 Vagoes[/B][/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em um mundo congelado, os últimos habitantes da Terra se esforçam para viver em uma sociedade complexa dentro de um trem que está em constante movimento.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Expresso do Amanhã - 2020 - Dublado[/B][/COLOR]</title>
+		
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer15/ondemand/EXPRSODOAMNHAT02EP01.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Hora dos Dois Motores [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer15/ondemand/EXPRSODOAMNHAT02EP02.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Coisa Esta Ficando Quente [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer15/ondemand/EXPRSODOAMNHAT02EP03.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uma Grande Odisseia [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer15/ondemand/EXPRSODOAMNHAT02EP04.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Toma La, Da Ca [/B][/COLOR]</link>
+		
+<thumbnail>https://i.ibb.co/Jc6z6V2/expamanha-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em um mundo congelado, os últimos habitantes da Terra se esforçam para viver em uma sociedade complexa dentro de um trem que está em constante movimento.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
