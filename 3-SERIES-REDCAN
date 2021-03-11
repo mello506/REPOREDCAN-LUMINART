@@ -404,6 +404,87 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Frontier[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Frontier</info>
+<genre>ÉPICOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Frontier[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Frontier no REDE CANAIS</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Frontier[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=W-FL-d4wKkI</link>
+<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Frontier - TO1 - 2016 - Dublado[/B][/COLOR]</title>
+
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Reino De Pele E Sangue [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Guerra Entre Iguais [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inimigo Em Comum [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Comando Sem Lei [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Discipulo [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Obsessao [/B][/COLOR]</link>
+
+<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série fala sobre o comércio de peles na América do Norte no final do século XVIII no Canadá, tendo como protagonista Declan Harp interpretado por Jason Momoa, um criminoso que é meio irlandês, meio Cree, que luta contra o monopólio da Companhia da Baía de Hudson sobre o comércio de peles.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Frontier - TO2 - 2017 - Dublado[/B][/COLOR]</title>
+		
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT02EP01.mp4$$lsname=[B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Cabeza A Premio [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT02EP02.mp4$$lsname=[B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Procurado [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT02EP03.mp4$$lsname=[B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Lobo E O Urso [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT02EP04.mp4$$lsname=[B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Motim [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT02EP05.mp4$$lsname=[B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Disparo De Canhao [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT02EP06.mp4$$lsname=[B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Retorno Do Lobo [/B][/COLOR]</link>
+
+<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série fala sobre o comércio de peles na América do Norte no final do século XVIII no Canadá, tendo como protagonista Declan Harp interpretado por Jason Momoa, um criminoso que é meio irlandês, meio Cree, que luta contra o monopólio da Companhia da Baía de Hudson sobre o comércio de peles.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Frontier - TO3 - 2018 - Dublado[/B][/COLOR]</title>
+		
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT03EP01.mp4$$lsname=[B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Caminho Obscuro [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT03EP02.mp4$$lsname=[B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Fim Do Mundo [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT03EP03.mp4$$lsname=[B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Satanazas [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT03EP04.mp4$$lsname=[B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Todos Por Todos E Nenhum Por Um [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT03EP05.mp4$$lsname=[B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Casa Do Senhor [/B][/COLOR]</link>
+<link>https://dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/FRNTRT03EP06.mp4$$lsname=[B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Pecados Do Pai [/B][/COLOR]</link>
+		
+<thumbnail>https://series.guru/uploads/series/poster/frontier-1dd08.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A série fala sobre o comércio de peles na América do Norte no final do século XVIII no Canadá, tendo como protagonista Declan Harp interpretado por Jason Momoa, um criminoso que é meio irlandês, meio Cree, que luta contra o monopólio da Companhia da Baía de Hudson sobre o comércio de peles.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Camelot[/B][/COLOR]</name>
 <thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/79/21/51/19681568.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
