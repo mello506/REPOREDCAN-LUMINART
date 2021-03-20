@@ -1552,7 +1552,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR green][B] O Exército Esquecido[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exército Esquecido[/B][/COLOR]</name>
 <thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série O Exército Esquecido</info>
@@ -1564,7 +1564,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK</link>
 <thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios da série O Exército Esquecido no SERVER 2</info>
+<info>Assista aqui os episódios da série O Exército Esquecido no REDE CANAIS</info>
 <genre>GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -1582,11 +1582,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exército Esquecido - 2020 - Dublado[/B][/COLOR]</title>
 
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/46711.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Shonan [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/46712.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] POW [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/46713.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Challo Dilli  [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/46714.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Harakiri [/B][/COLOR]</link>
-<link>http://neonp2p.com:8080/series/josieljosiel12828/josieljosiel12828/46715.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Maya [/B][/COLOR]</link>
+<link>https://gesttec.azureedge.net/RCServer14/ondemand/OEXRCTESQCDT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Shonan [/B][/COLOR]</link>
+<link>https://gesttec.azureedge.net/RCServer14/ondemand/OEXRCTESQCDT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] POW [/B][/COLOR]</link>
+<link>https://gesttec.azureedge.net/RCServer14/ondemand/OEXRCTESQCDT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Challo Dilli  [/B][/COLOR]</link>
+<link>https://gesttec.azureedge.net/RCServer14/ondemand/OEXRCTESQCDT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Harakiri [/B][/COLOR]</link>
+<link>https://gesttec.azureedge.net/RCServer14/ondemand/OEXRCTESQCDT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Maya [/B][/COLOR]</link>
 
 <thumbnail>https://www.zenten.in/wp-content/uploads/2020/06/The-Forgotten-Army_1.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -1595,6 +1595,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Das Boot[/B][/COLOR]</name>
